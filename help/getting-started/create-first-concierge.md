@@ -32,4 +32,4 @@ ht-degree: 0%
 * 정확한 응답을 위해 콘텐츠 소스를 연결하는 방법
 * 브랜드 음성을 사용자 정의하고 경험을 테스트하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476528/?captions=kor&learn=on&enablevpops)
