@@ -1,9 +1,9 @@
 ---
 title: Adobe Brand Concierge 개요
 description: 브랜드 소유 디지털 속성을 위한 AI 기반 제품 검색 및 참여 솔루션인 Adobe Brand Concierge에 대해 알아봅니다.
-source-git-commit: 4973820b87be15ff46ac053dbed79146e7043676
+source-git-commit: ee6b768579e620044ca92f5e8b9d06f39a60583d
 workflow-type: tm+mt
-source-wordcount: '2953'
+source-wordcount: '2952'
 ht-degree: 1%
 
 ---
@@ -128,7 +128,7 @@ Brand Concierge 홈페이지는 사용 편의성과 효율성을 위해 설계�
 3. 엄지 손가락 위 및 아래 메커니즘을 사용하여 수신하는 각 응답을 평가합니다.
 4. 엄지손가락을 아래로 보내기 위한 전체 피드백 양식:
    **응답 범위:** 의도를 해결했습니까?
-   **브랜드 색조:**&#x200B;이(가) 성격에 맞게 정렬되었습니까?
+   **브랜드 색조:**이(가) 성격에 맞게 정렬되었습니까?
    **응답 품질:** 명확하고 구조화되었습니까?
    **응답 기능:** 도움이 되는 추가 작업
 5. 주석 및 특정 관찰을 추가합니다.
@@ -179,7 +179,7 @@ Brand Concierge은 고객 참여를 위한 고급 대화형 AI 기능을 기업�
 * 브랜드 음성, 톤 및 규정 준수 요구 사항을 제어합니다.
 * Customer Journey Analytics 대시보드를 사용하여 성능을 추적합니다.
 * 모임 일정을 포함하여 원활한 AI 대 인간 핸드오프를 활성화합니다.
-* Adobe Experience Platform, Commerce 및 Experience Manager과 통합됩니다.
+* Adobe Experience Platform 및 Experience Manager과 통합됩니다.
 
 ## 사용 사례
 
