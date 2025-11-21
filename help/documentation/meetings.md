@@ -1,9 +1,7 @@
 ---
 title: Adobe Brand Concierge의 모임
 description: Adobe Brand Concierge에서 모임을 설정하고 구성하는 방법에 대해 알아봅니다.
-hide: true
-hidefromtoc: true
-source-git-commit: 08e05eb4f50a7b4451e6e2f0ce3399c82a4beaa0
+source-git-commit: 3994c9557bfed43aef9584324fe6be0f70b974dc
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 1%
