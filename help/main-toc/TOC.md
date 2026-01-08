@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge 살펴보기
-source-git-commit: 59d6416c6ae646caed2fdcc4299169ae36730bef
+source-git-commit: 019913304088ac33b80bc937297d000010bfccf7
 workflow-type: tm+mt
-source-wordcount: '25'
-ht-degree: 16%
+source-wordcount: '26'
+ht-degree: 15%
 
 ---
 
