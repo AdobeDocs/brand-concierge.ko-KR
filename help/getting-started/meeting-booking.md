@@ -32,4 +32,4 @@ Adobe Brand Concierge의 회의 예약 기능에 대해 알아봅니다. 이 비
 * 라이브 에이전트로의 전송이 얼마나 빠르고 쉽게 발생하는지 확인하십시오.
 * 이러한 도구를 관리하고 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478541?captions=kor&learn=on&enablevpops)
