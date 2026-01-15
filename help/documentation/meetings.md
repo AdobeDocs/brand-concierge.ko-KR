@@ -3,9 +3,9 @@ title: 모임 설정 및 구성
 description: Adobe Brand Concierge에서 모임을 설정하고 구성하는 방법에 대해 알아봅니다.
 level: Beginner
 role: User,Admin
-source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
+source-git-commit: 9bd739128b25805d8e17b65b2fb9fea65c820526
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '343'
 ht-degree: 2%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 2%
 # 모임 {#meetings}
 
 Adobe Brand Concierge에서 모든 _모임_ 설정을 알아봅니다. 달력을 연결하고 가용성을 설정하고 분석을 보는 등의 작업을 수행합니다.
+
+관련: [모임 예약](../getting-started/meeting-booking.md) 비디오
 
 ## 구성 {#configuration}
 
