@@ -1,9 +1,9 @@
 ---
-title: Adobe Brand Concierge
-description: Adobe Brand Concierge에 대해 자세히 알아보십시오.
-source-git-commit: 0350baa8ed2e7cd5f8a676c5eb82a165767cbf4f
+title: 설명서 및 튜토리얼
+description: 설정, 지식 소스, 브랜드 맞춤화, 회의 및 분석에 대한 안내서를 사용하여 AI 비서를 구성하고 최적화하는 방법에 대해 알아봅니다.
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---

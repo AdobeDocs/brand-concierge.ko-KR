@@ -1,5 +1,5 @@
 ---
-title: Brand Concierge 시작
+title: 컨시어지 비디오 만들기
 description: 브랜드 음성을 사용하여 개인화된, 대화형 고객 경험을 제공하기 위해 Adobe Brand Concierge을 설정하는 방법에 대해 알아봅니다.
 topic: Personalization,Integrations
 role: User
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 181
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19504
-source-git-commit: 9ae37f8f5b85e21930ccc0644520f31d65a81829
+source-git-commit: f2006c69fec365551f791a6c94bca6f1c2c6cdc4
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,6 @@ ht-degree: 0%
 * 정확한 응답을 위해 콘텐츠 소스를 연결하는 방법
 * 브랜드 음성을 사용자 정의하고 경험을 테스트하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3476528/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+
+설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.

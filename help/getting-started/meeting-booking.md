@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: 52eee4c0baf9b4d1b7d2ba57254d4e0e998e5f20
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,6 @@ Adobe Brand Concierge의 회의 예약 기능에 대해 알아봅니다. 이 비
 * 라이브 에이전트로의 전송이 얼마나 빠르고 쉽게 발생하는지 확인하십시오.
 * 이러한 도구를 관리하고 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478541?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+
+자세한 내용은 [모임](../documentation/meetings.md)을 참조하세요.
