@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 181
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19504
-source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
+source-git-commit: 0da8fba88277c80a8413484e39167b9aa01170e5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 첫 번째 컨시어지 만들기
 
-고객이 올바른 Adobe 제품, 서비스 또는 경험을 찾을 수 있도록 첫 번째 Adobe Brand Concierge을 설정하는 방법에 대해 알아봅니다. 컨시어지의 이름을 지정하고, 유용한 콘텐츠를 추가하고, 응답 방법을 선택하고, 브랜드에 음성을 일치시키는 방법을 배웁니다. 준비가 되면 테스트하여 데스크탑 및 모바일에서 작동하는 방식을 확인할 수 있습니다.
+고객에게 웹 사이트에서 개인화된 대화형 환경을 제공하는 데 도움이 되는 첫 번째 Adobe Brand Concierge을 설정하는 방법에 대해 알아봅니다. 컨시어지의 이름을 지정하고, 유용한 콘텐츠를 추가하고, 응답 방법을 선택하고, 브랜드에 음성을 일치시키는 방법을 배웁니다. 준비가 되면 테스트하여 데스크탑 및 모바일에서 작동하는 방식을 확인할 수 있습니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -32,6 +32,6 @@ ht-degree: 0%
 * 정확한 응답을 위해 콘텐츠 소스를 연결하는 방법
 * 브랜드 음성을 사용자 정의하고 경험을 테스트하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3476528/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
