@@ -3,9 +3,17 @@ title: 모임 설정 및 구성
 description: Adobe Brand Concierge에서 모임을 설정하고 구성하는 방법에 대해 알아봅니다.
 level: Beginner
 role: User,Admin
-source-git-commit: 9bd739128b25805d8e17b65b2fb9fea65c820526
+TQID: https://experienceleague.adobe.com/vfX6M2-ts7d2-AxKGjaP1Ygkk3FGSGRl4CHslcKYSXU
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: 347
 ht-degree: 2%
 
 ---
