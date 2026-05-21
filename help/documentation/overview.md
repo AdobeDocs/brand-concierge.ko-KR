@@ -18,9 +18,9 @@ topic_v2:
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: 950a34b078c453274cc8ea9b7d236b0871e4a0ad
 workflow-type: tm+mt
-source-wordcount: 1793
+source-wordcount: 1995
 ht-degree: 1%
 
 ---
@@ -234,3 +234,32 @@ Brand Concierge은 여러 산업에서 B2C 및 B2B 사용 사례를 모두 지�
 | 여행 및 호스피탈리티 | 고객은 개인화된 목적지 추천, 일정 계획 지원, 예약 프로세스 전반에 대한 지원 및 여행 정책 질문에 대한 답변을 받을 수 있습니다. |
 | 금융 서비스 | Brand Concierge은 고객이 올바른 금융 솔루션을 선택하고, 계정 정보를 제공하고, 규정 준수를 인식하는 지침을 제공하고, 금융 고문과의 회의 일정을 예약할 수 있도록 제품 비교를 제공합니다. |
 
+## 챗봇 공개 {#disclosure}
+
+투명하고 신뢰할 수 있는 환경을 제공하기 위해 Adobe Brand Concierge 사용자는 채팅 환경 내에 짧은 공개를 추가할 책임이 있습니다. 이러한 공개는 최종 사용자가 채팅이 작동하는 방식과 해당 정보가 사용되는 방식을 이해하는 데 도움이 됩니다.
+
+**공개에서 다루어야 하는 내용**
+
+채팅 내 공개는 최종 사용자에게 세 가지 사항을 명확히 전달해야 합니다.
+
+1. _채팅에서 생성 AI를 사용합니다_
+
+   응답이 AI에 의해 생성되므로 자동화된 시스템과 상호 작용하고 있음을 사용자에게 알립니다.
+
+1. _환경을 개선하기 위해 채팅을 검토할 수 있습니다_
+
+   응답을 개인화하고 채팅의 품질과 성과를 개선하는 데 도움이 되도록 사용자(고객)와 서비스 공급자가 채팅 대화에 액세스할 수 있다는 것을 사용자에게 알려야 합니다.
+
+1. _채팅을 사용하는 것은 이 사용에 동의함을 의미합니다_
+
+채팅을 계속 사용함으로써 사용자가 자신의 채팅 데이터 처리에 동의함을 명확히 합니다.
+
+**예(참조용으로만)**
+
+`"This chat uses generative AI to help respond to you. Chats may be recorded by [customer] and/or our service provider and used to help operate and improve services, make your interactions with us better, and provide a more personalized experience. By continuing to chat you agree to this processing of data."`
+
+위의 주요 요점이 명확하게 전달되는 한, 귀하의 브랜드 보이스와 사용자 경험에 맞게 단어를 자유롭게 조정할 수 있습니다.
+
+**이 문제가 되는 이유**
+
+채팅 작동 방식에 대해 솔직하게 이야기하면 사용자에게 올바른 기대를 설정하고 AI 기반 경험에 대한 신뢰를 구축하는 데 도움이 됩니다.
