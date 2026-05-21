@@ -4,10 +4,20 @@ description: Brand Concierge의 주요 기능을 구성하고 사용하는 방�
 role: User,Admin
 level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
-product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 950a34b078c453274cc8ea9b7d236b0871e4a0ad
 workflow-type: tm+mt
 source-wordcount: 1995
@@ -157,7 +167,7 @@ _[!UICONTROL 브랜드 표현식]_ 인터페이스를 사용하여 컨시어지 
 1. 엄지 손가락 위 및 아래 메커니즘을 사용하여 수신하는 각 응답을 평가합니다.
 1. 엄지손가락을 아래로 보내기 위한 전체 피드백 양식:
    **응답 범위:** 의도를 해결했습니까?
-   **브랜드 색조:**이(가) 성격에 맞게 정렬되었습니까?
+   **브랜드 색조:**&#x200B;이(가) 성격에 맞게 정렬되었습니까?
    **응답 품질:** 명확하고 구조화되었습니까?
    **응답 기능:** 도움이 되는 추가 작업
 1. 주석 및 특정 관찰을 추가합니다.
