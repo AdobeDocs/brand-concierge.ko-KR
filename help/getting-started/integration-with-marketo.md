@@ -29,6 +29,6 @@ Brand Concierge이 웹 사이트와 Marketo Engage 사이의 루프를 닫는 �
 * 기본 &quot;컨시어지에서 예약된 회의&quot; 활동 유형은 전체 컨텍스트(회의 기간, 판매 단계, 라우팅 유형 및 예약 상태)를 사용하여 리드의 활동 로그에 기록됩니다
 * Marketo 스마트 캠페인에서 Brand Concierge 활동 유형을 트리거, 필터 또는 캠페인 데이터 배치로 사용하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492230?captions=kor&learn=on)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
