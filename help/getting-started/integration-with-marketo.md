@@ -8,7 +8,7 @@ topic: Integrations
 doc-type: Tutorial
 last-substantial-update: 2026-06-10T00:00:00Z
 jira: KT-21468
-source-git-commit: 0cf28b049f802f6ce677a62bbd3dc4da2f5ffde4
+source-git-commit: e77153743febdcd411ce973172c82a7a713b4135
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Marketo과 통합
 
-Brand Concierge이 웹 사이트와 Marketo Engage 사이의 루프를 닫는 방법에 대해 알아봅니다. 채팅 내 리드 캡처에서 모임 예약에 이르기까지 방문자 대화가 기본 활동 데이터로 Marketo에 자동으로 유입되는 방법과 스마트 캠페인 트리거 및 배치 모두에서 해당 데이터를 사용하는 방법을 확인합니다.
+Brand Concierge이 웹 사이트와 Marketo Engage 사이의 루프를 닫는 방법에 대해 알아봅니다. 방문자 대화(채팅 내 리드 캡처에서 모임 예약까지)가 기본 활동 데이터로 Marketo에 자동으로 유입되는 방법과 스마트 캠페인 트리거 및 배치 모두에서 해당 데이터를 사용하는 방법을 확인합니다.
 
 ## 이 비디오는 누구의 것입니까?
 
