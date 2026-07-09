@@ -24,4 +24,4 @@ ht-degree: 41%
    + [자주 묻는 질문](../documentation/brand-concierge-faq.md)
 + 릴리스 정보 {#release-notes}
    + [현재 릴리스 정보](../release-notes/current.md)
-+ [브랜드 컨시어지 데모 - 가치 비디오](../demo-videos/demo-for-brand-concierge-value-video.md){.hide-from-toc}
++ [브랜드 컨시어지 데모 - 가치 비디오.hide-from-toc](../demo-videos/demo-for-brand-concierge-value-video.md)
