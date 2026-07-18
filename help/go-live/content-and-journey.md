@@ -32,7 +32,7 @@ Adobe Brand Concierge은 질문 및 제공한 콘텐츠에만 답변할 수 있�
 * 콘텐츠를 공유하기 전에 준비하는 방법
 * 1페이지 방문자 여정 정의를 작성하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3496007/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496012/?captions=kor&learn=on)
 
 ## 이 시리즈의 관련 비디오
 
