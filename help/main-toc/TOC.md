@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge 살펴보기
-source-git-commit: 8aa2ce596a0ffa2f013b25b9fbb6bfd881197a59
+source-git-commit: 35e52ffb75d13d1580c85055d8393a18f6e63714
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 31%
+source-wordcount: '71'
+ht-degree: 29%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 31%
 + Go-live 안내서 {#go-live-guide}
   + [Go-live 여정 시작](../go-live/welcome.md)
   + [콘텐츠 및 방문자 경험 준비](../go-live/content-and-journey.md)
+  + [음성 및 위젯 모양 만들기](../go-live/voice-and-visuals.md)
 + 설명서 {#documentation}
   + [Brand Concierge 도움말](../documentation/overview.md)
   + [모임](../documentation/meetings.md)
