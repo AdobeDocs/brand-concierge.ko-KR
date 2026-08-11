@@ -32,6 +32,6 @@ ht-degree: 0%
 * 제공하는 내용과 Adobe 팀이 구성하는 내용 비교
 * 일반적인 6~9주 일정 및 이에 영향을 미치는 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495874/?captions=kor&learn=on)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
