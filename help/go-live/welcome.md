@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 150
 last-substantial-update: 2026-07-10T00:00:00Z
 jira: KT-21745
-source-git-commit: 14c0dae30087e8245964d6bd80eb462f8450f168
+source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -32,6 +32,6 @@ ht-degree: 0%
 * 제공하는 내용과 Adobe 팀이 구성하는 내용 비교
 * 일반적인 6~9주 일정 및 이에 영향을 미치는 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/3495874/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
