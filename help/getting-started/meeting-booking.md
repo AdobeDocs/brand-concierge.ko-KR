@@ -6,7 +6,7 @@ role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 226
-last-substantial-update: 2026-01-06T00:00:00.000Z
+last-substantial-update: 2026-01-06
 jira: KT-19622
 TQID: https://experienceleague.adobe.com/4wW6FTaGpq-BrAvZzMh0PATAT2WkCuB-YRBCnGyJEYs
 product_v2:
@@ -20,16 +20,16 @@ topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
 workflow-type: tm+mt
 source-wordcount: 121
-ht-degree: 17%
+ht-degree: 51%
 
 ---
 
 # 회의 예약
 
-Adobe Brand Concierge의 회의 예약 기능에 대해 알아봅니다. 이 비디오 튜토리얼에서는 고객 대면 환경의 모습, 달력 연결을 위한 관리자 구성, 일부 대시보드 및 보고서 보기 등의 항목을 다룹니다.
+Adobe Brand Concierge의 회의 예약 기능에 대해 알아봅니다. 이 비디오 튜토리얼은 고객에게 보여지는 사용자 경험, 캘린더 연결을 위한 관리자 구성, 일부 대시보드 및 보고서보고서를 다룹니다.
 
 ## 이 비디오는 누구의 것입니까?
 
