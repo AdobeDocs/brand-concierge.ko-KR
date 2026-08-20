@@ -42,7 +42,7 @@ ht-degree: 0%
 * 저장하기 전에 브랜드 프로필, 지침 및 스타터 프롬프트를 검토하고 조정하는 방법
 * 데스크탑 및 모바일에서 샘플 질문으로 컨시어지를 테스트하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476528?captions=kor&learn=on)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
 
