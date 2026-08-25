@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge 살펴보기
-source-git-commit: 9eb6c0edb3712451c6d0d118cf19304e34630737
+source-git-commit: aa3c84f02c1f49c55876248a305bb01ea2a7ec28
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 26%
+source-wordcount: '107'
+ht-degree: 20%
 
 ---
 
@@ -28,6 +28,13 @@ ht-degree: 26%
   + [모임](../documentation/meetings.md)
   + {hide-from-toc}[스킬 및 통합 프레임워크](../documentation/skills-and-integrations.md)
   + [자주 묻는 질문](../documentation/brand-concierge-faq.md)
+  + 개요 {#overview}
+    + {hide-from-toc}[Brand Concierge 개요](../documentation/overview/overview.md)
+    + {hide-from-toc}[첫 번째 Brand Concierge](../documentation/overview/first-brand-concierge.md)
+  + 사용자 및 액세스 관리 {#user-and-access-management}
+    + {hide-from-toc}[조직에 사용자 추가](../documentation/user-and-access-management/add-a-user-to-the-org.md)
+    + {hide-from-toc}[역할에 사용자 추가](../documentation/user-and-access-management/add-a-user-to-the-role.md)
+    + {hide-from-toc}[역할 만들기](../documentation/user-and-access-management/create-a-role.md)
 + 릴리스 정보 {#release-notes}
   + [현재 릴리스 정보](../release-notes/current.md)
 + {hide-from-toc}[브랜드 컨시어지용 데모 - 가치 비디오](../demo-videos/demo-for-brand-concierge-value-video.md)
