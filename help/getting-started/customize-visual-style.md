@@ -32,6 +32,6 @@ Adobe Brand Concierge은 색상 팔레트, 글꼴 및 웹 사이트에서 가져
 * 텍스트 색상, 두께 및 크기를 포함한 시작 메시지 제목 및 소제목을 편집하는 방법
 * 카드 텍스트, 이미지 및 배경색을 포함한 시작 프롬프트 카드를 추가, 제거 및 편집하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502259)
+>[!VIDEO](https://video.tv.adobe.com/v/3502264?captions=kor)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
