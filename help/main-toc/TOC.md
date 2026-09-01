@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge 살펴보기
-source-git-commit: aa3c84f02c1f49c55876248a305bb01ea2a7ec28
+source-git-commit: 2255c486351718718d7f729ae7f870446c955793
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '127'
 ht-degree: 20%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 20%
   + [데이터 스트림 ID에 대해 알아보기](../getting-started/learn-about-datastream-ids.md)
   + [Marketo과 통합](../getting-started/integration-with-marketo.md)
   + [컨시어지의 비주얼 스타일 맞춤화](../getting-started/customize-visual-style.md)
+  + [평가 세트에 대해 알아보기](../getting-started/learn-about-evaluation-sets.md)
 + Go-live 안내서 {#go-live-guide}
   + [Go-live 여정 시작](../go-live/welcome.md)
   + [콘텐츠 및 방문자 경험 준비](../go-live/content-and-journey.md)
@@ -35,6 +36,18 @@ ht-degree: 20%
     + {hide-from-toc}[조직에 사용자 추가](../documentation/user-and-access-management/add-a-user-to-the-org.md)
     + {hide-from-toc}[역할에 사용자 추가](../documentation/user-and-access-management/add-a-user-to-the-role.md)
     + {hide-from-toc}[역할 만들기](../documentation/user-and-access-management/create-a-role.md)
+  + 기술 자료 소스 {#knowledge-sources}
+    + {hide-from-toc}[ks](../documentation/knowledge-sources/knowledge-sources.md)
+  + 관리 서비스 {#concierge-management}
+    + {hide-from-toc}[cm](../documentation/concierge-management/concierge-management.md)
+  + 평가 {#evaluation}
+    + {hide-from-toc}[e](../documentation/evaluation/evaluation.md)
+  + 배포 {#deployment}
+    + {hide-from-toc}[d](../documentation/deployment/deployment.md)
+  + 실행 체크리스트 {#go-live-checklist}
+    + {hide-from-toc}[glc](../documentation/go-live-checklist/go-live-checklist.md)
+  + Analytics {#analytics}
+    + {hide-from-toc}[a](../documentation/analytics/analytics.md)
 + 릴리스 정보 {#release-notes}
   + [현재 릴리스 정보](../release-notes/current.md)
 + {hide-from-toc}[브랜드 컨시어지용 데모 - 가치 비디오](../demo-videos/demo-for-brand-concierge-value-video.md)
