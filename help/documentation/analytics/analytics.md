@@ -2,9 +2,9 @@
 title: 컨시어지 성능 분석
 description: 컨시어지 분석을 검토하고, 대화 기록을 검사하고, 평가 세트에 방문자 질문을 추가하고, Customer Journey Analytics 보고서를 여는 방법에 대해 알아봅니다.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -80,10 +80,6 @@ CJA 대시보드에는 다음이 포함됩니다.
 - 대화 중에 제공되는 컨시어지 권장 사항.
 
 대시보드를 사용하여 시간 경과에 따른 트렌드를 검사하고 방문자 참여, 피드백, 의도 및 감정의 변경 사항을 식별합니다.
-
-## 대화 내보내기
-
-소스 자료는 다른 시스템의 기록과 트랜스크립트를 일치시키는 방법으로 대화 ID를 식별하지만, 내보내기 메커니즘을 문서화하지는 않습니다.
 
 >[!IMPORTANT]
 >
