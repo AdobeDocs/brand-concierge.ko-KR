@@ -1,24 +1,20 @@
 ---
-title: 모임 설정 및 구성
-description: Adobe Brand Concierge에서 모임을 설정하고 구성하는 방법에 대해 알아봅니다.
+title: 모임 예약 설정 및 구성
+description: 일정 연결, 가용성, 구성원 액세스 및 성능 분석을 포함하여 Adobe Brand Concierge에서 모임 예약을 구성하는 방법에 대해 알아봅니다.
 level: Beginner
 role: User,Admin
 TQID: https://experienceleague.adobe.com/vfX6M2-ts7d2-AxKGjaP1Ygkk3FGSGRl4CHslcKYSXU
-product_v2:
-  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1b1598dc2c6308ae38a2aeaf14576c9c55be5ba5
+product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: fc5e30918271360ea2256b49d1c200fb3eda298b
 workflow-type: tm+mt
-source-wordcount: 329
+source-wordcount: 338
 ht-degree: 3%
 
 ---
 
-# 모임 {#meetings}
+# 모임 예약 {#meetings}
 
 Adobe Brand Concierge에서 모든 _모임_ 설정을 알아봅니다. 달력을 연결하고 가용성을 설정하고 분석을 보는 등의 작업을 수행합니다.
 
@@ -34,7 +30,7 @@ Outlook 또는 Google 계정에 연결하고 요일, 시간대 및 모임 기간
 
 1. [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}에 로그인합니다.
 
-1. **[!UICONTROL 판매 한정자]**&#x200B;를 선택하십시오.
+1. **[!UICONTROL Sales Qualifier]**&#x200B;을(를) 선택합니다.
 
    ![Adobe Experience Platform 홈 페이지](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
