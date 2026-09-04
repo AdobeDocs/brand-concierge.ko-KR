@@ -1,9 +1,9 @@
 ---
 title: Brand Concierge 권한으로 역할 만들기
 description: 역할을 만들고 Brand Concierge에 액세스하는 데 필요한 권한을 부여하는 방법을 알아봅니다.
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '212'
 ht-degree: 1%
 
 ---
@@ -21,10 +21,6 @@ Adobe Experience Platform 권한에 역할을 만들어 사용자에게 Brand Co
 ## 역할 만들기
 
 1. `experienceplatform.adobe.com`에 로그인합니다.
-
-   >[!NOTE]
-   >
-   >이 절차를 게시하기 전에 엔지니어링으로 프로덕션 URL을 확인하십시오. 소스 레코딩에서는 비공식적이거나 잘못 기록된 URL을 사용했습니다.
 
 1. 왼쪽 탐색에서 **사용 권한**(으)로 스크롤하여 선택합니다.
 1. **역할**(으)로 이동하여 기존 역할을 보고 **새 역할 만들기**&#x200B;를 선택합니다.
@@ -45,8 +41,3 @@ Adobe Experience Platform 권한에 역할을 만들어 사용자에게 Brand Co
 ## 다음 단계
 
 역할이 만들어지면 사용자를 역할에 추가합니다. 자세한 내용은 [Brand Concierge 역할에 사용자 추가](./add-a-user-to-the-role.md)를 참조하십시오.
-
-## 유의할 사항
-
-- 샌드박스를 만들고 관리하는 프로세스는 이 절차의 범위를 벗어납니다.
-- 장기 역할 모델을 정의하기 전에 세분화된 Brand Concierge 권한을 추가로 계획할지 확인하십시오.

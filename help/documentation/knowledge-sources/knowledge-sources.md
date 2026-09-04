@@ -2,9 +2,9 @@
 title: Brand Concierge에 대한 지식 소스 만들기 및 관리
 description: AEM Sites, 웹 사이트 링크 및 Brand Concierge에 대한 제품 카탈로그 지식 소스를 만들고 상태를 모니터링하고 크롤링 처리 문제를 해결하는 방법에 대해 알아봅니다.
 hide: true
-source-git-commit: da4b30fa292b911987aebec378af420b293ea594
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '867'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,8 @@ ht-degree: 1%
 
 ## 기술 자료 원본 선택
 
+Brand Concierge은 다음과 같은 기술 자료 소스 유형을 지원합니다.
+
 | 기술 자료 출처 | 다음의 경우에 사용 | 주요 기능 |
 | --- | --- | --- |
 | AEM Sites (Content AI index) | 고객은 콘텐츠 AI가 활성화된 AEM Sites as a Cloud Service을 사용합니다. | 기존 콘텐츠 AI 인덱스를 사용하고 별도의 크롤링 또는 새로 고침 단계 없이 업데이트된 AEM Sites 콘텐츠를 사용할 수 있도록 합니다. |
@@ -30,7 +32,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->소스 자료는 대형 카탈로그와 함께 Adobe Commerce을 통해 판매하는 고객은 대신 Commerce MCP 통합을 사용해야 한다는 점을 언급하고 있습니다. 해당 통합에 대한 자세한 내용은 이 문서의 범위를 벗어납니다.
+>큰 카탈로그와 함께 Adobe Commerce을 통해 판매하는 고객은 대신 Commerce MCP 통합을 사용해야 합니다. 해당 통합에 대한 자세한 내용은 이 문서의 범위를 벗어납니다.
 
 ## AEM Sites 지식 소스 만들기
 
