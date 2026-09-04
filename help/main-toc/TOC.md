@@ -2,7 +2,7 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge 살펴보기
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 9b0ec00c0816dba6ca30042491944c68f51d9caf
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 16%
@@ -28,28 +28,28 @@ ht-degree: 16%
 + 설명서 {#documentation}
   + [Brand Concierge 도움말](../documentation/overview.md)
   + [모임](../documentation/meetings.md)
-  + {hide-from-toc}[스킬 및 통합 프레임워크](../documentation/skills-and-integrations.md)
+  + [기술 및 통합 프레임워크](../documentation/skills-and-integrations.md)
   + [개발자 및 사용자 지정 안내서](../documentation/developer-customization-guide.md)
   + [자주 묻는 질문](../documentation/brand-concierge-faq.md)
   + 개요 {#overview}
-    + {hide-from-toc}[Brand Concierge 개요](../documentation/overview/overview.md)
-    + {hide-from-toc}[첫 번째 Brand Concierge](../documentation/overview/first-brand-concierge.md)
+    + [Brand Concierge 개요](../documentation/overview/overview.md)
+    + [첫 번째 Brand Concierge](../documentation/overview/first-brand-concierge.md)
   + 사용자 및 액세스 관리 {#user-and-access-management}
-    + {hide-from-toc}[조직에 사용자 추가](../documentation/user-and-access-management/add-a-user-to-the-org.md)
-    + {hide-from-toc}[역할에 사용자 추가](../documentation/user-and-access-management/add-a-user-to-the-role.md)
-    + {hide-from-toc}[역할 만들기](../documentation/user-and-access-management/create-a-role.md)
+    + [조직에 사용자 추가](../documentation/user-and-access-management/add-a-user-to-the-org.md)
+    + [역할에 사용자 추가](../documentation/user-and-access-management/add-a-user-to-the-role.md)
+    + [역할 만들기](../documentation/user-and-access-management/create-a-role.md)
   + 기술 자료 소스 {#knowledge-sources}
-    + {hide-from-toc}[Brand Concierge에 대한 기술 자료 원본 만들기 및 관리](../documentation/knowledge-sources/knowledge-sources.md)
+    + [Brand Concierge에 대한 지식 소스 만들기 및 관리](../documentation/knowledge-sources/knowledge-sources.md)
   + 관리 서비스 {#concierge-management}
-    + {hide-from-toc}[컨시어지 관리](../documentation/concierge-management/concierge-management.md)
+    + [컨시어지 관리](../documentation/concierge-management/concierge-management.md)
   + 평가 {#evaluation}
-    + {hide-from-toc}[컨시어지 평가](../documentation/evaluation/evaluation.md)
+    + [컨시어지 평가](../documentation/evaluation/evaluation.md)
   + 배포 {#deployment}
-    + {hide-from-toc}[컨시어지 배포](../documentation/deployment/deployment.md)
+    + [컨시어지 배포](../documentation/deployment/deployment.md)
   + 실행 체크리스트 {#go-live-checklist}
-    + {hide-from-toc}[컨시어지를 위한 Go-Live 확인 목록](../documentation/go-live-checklist/go-live-checklist.md)
+    + [컨시어지를 위한 라이브 체크리스트](../documentation/go-live-checklist/go-live-checklist.md)
   + Analytics {#analytics}
-    + {hide-from-toc}[컨시어지 성능 분석](../documentation/analytics/analytics.md)
+    + [컨시어지 성능 분석](../documentation/analytics/analytics.md)
 + 릴리스 정보 {#release-notes}
   + [현재 릴리스 정보](../release-notes/current.md)
 + {hide-from-toc}[브랜드 컨시어지용 데모 - 가치 비디오](../demo-videos/demo-for-brand-concierge-value-video.md)
