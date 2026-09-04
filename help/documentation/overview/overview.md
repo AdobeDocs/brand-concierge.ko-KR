@@ -1,9 +1,9 @@
 ---
 title: Brand Concierge 개요
 description: Brand Concierge이 무엇인지, 주 구성 요소가 어떻게 서로 맞물렸는지, 작성기 인터페이스 전체에서 보게 될 주요 용어에 대한 용어집을 알아봅니다.
-source-git-commit: 3da67605a43e949046260651253bbe0f2f0215fc
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '509'
 ht-degree: 1%
 
 ---
@@ -21,17 +21,17 @@ Brand Concierge 배포에는 두 가지 주요 부분이 있습니다.
 | **방문자 경험** | 웹 사이트 또는 모바일 앱과 같이 브랜드 이미지를 갖춘 표면으로, 방문자가 컨시어지와 소통하고 실시간으로 응답을 얻을 수 있습니다. |
 | **작성기** | 컨시어지 경험을 디자인하고 컨시어지, 통합, 구성, 평가, 배포 및 분석을 관리하는 데 사용되는 전문가 인터페이스입니다. |
 
-## 이 안내서에서 다루는 작성기 모듈
+## 작성기 모듈
 
-Composer 내에서 주요 모듈(및 이 안내서에서 다루는 위치)은 다음과 같습니다.
+Composer 내에서 주요 모듈은 다음과 같습니다.
 
-- 사용자 관리(섹션 3)
-- 여러 분야에 걸쳐 공유되는 지식 소스 생성 및 관리(섹션 4)
-- 컨시어지 관리: 통합, 기술, 컨시어지 지침, 톤 및 음성, 비주얼 스타일 및 채팅 구성 요소(5절)
-- 평가(섹션 6)
-- 배포(섹션 7)
-- Go-Live 체크리스트(섹션 8)
-- Analytics(섹션 9)
+- [사용자 및 액세스 관리](../user-and-access-management/add-a-user-to-the-org.md)
+- [기술 자료 원본 만들기 및 관리](../knowledge-sources/knowledge-sources.md), 여러 분야 공유
+- [컨시어지 관리](../concierge-management/concierge-management.md): 통합, 기술, 컨시어지 지침, 톤 및 음성, 비주얼 스타일 및 채팅 구성 요소
+- [평가](../evaluation/evaluation.md)
+- [배포](../deployment/deployment.md)
+- [실행 체크리스트](../go-live-checklist/go-live-checklist.md)
+- [Analytics](../analytics/analytics.md)
 
 ## 조각이 연결되는 방식
 
@@ -58,4 +58,4 @@ Composer 내에서 주요 모듈(및 이 안내서에서 다루는 위치)은 �
 
 >[!NOTE]
 >
->마케터는 일반적으로 섹션 3, *사용자 및 액세스 관리*&#x200B;를 완전히 건너뛰고(IT 부서의 누군가가 한 번 완료) 섹션 4, *지식 소스*&#x200B;에서 시작할 수 있습니다. 새로운 팀원을 설정할 때만 섹션 3으로 돌아갑니다.
+>마케터는 일반적으로 [사용자 및 액세스 관리](../user-and-access-management/add-a-user-to-the-org.md)를 완전히 건너뛰고(IT 담당자가 한 번 완료) [기술 자료 원본](../knowledge-sources/knowledge-sources.md)에서 시작할 수 있습니다. 새 팀원을 설정할 때만 사용자 및 액세스 관리로 돌아갑니다.
