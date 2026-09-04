@@ -2,9 +2,9 @@
 title: Brand Concierge에 대한 지식 소스 만들기 및 관리
 description: AEM Sites, 웹 사이트 링크 및 Brand Concierge에 대한 제품 카탈로그 지식 소스를 만들고 상태를 모니터링하고 크롤링 처리 문제를 해결하는 방법에 대해 알아봅니다.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -21,8 +21,6 @@ ht-degree: 1%
 >방문자가 구성된 지식 소스 외부의 정보에 대해 질문하면 지원되지 않는 답변을 생성하는 대신 정보가 없음을 나타내도록 콘시어지가 설계되었습니다. 이 동작을 확인하려면 평가 프로세스를 사용하십시오.
 
 ## 기술 자료 원본 선택
-
-출처 자료에는 다음과 같은 지식 출처 유형이 설명되어 있습니다.
 
 | 기술 자료 출처 | 다음의 경우에 사용 | 주요 기능 |
 | --- | --- | --- |
