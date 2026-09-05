@@ -2,10 +2,10 @@
 title: 컨시어지 관리
 description: 웹 사이트에서 Brand Concierge을 만들고, 통합, 기술, 지침, 색조 및 시각적 스타일을 구성하고, 배포하기 전에 테스트하는 방법을 알아봅니다.
 toc: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
 workflow-type: tm+mt
-source-wordcount: '1804'
-ht-degree: 0%
+source-wordcount: '1761'
+ht-degree: 1%
 
 ---
 
@@ -161,10 +161,6 @@ ht-degree: 0%
 - 카드 색상
 
 사용자 인터페이스의 설정을 편집하고 실시간 미리 보기를 사용하여 변경 사항을 검토합니다. 변경 내용을 영구적으로 적용하려면 **저장**&#x200B;을 선택하십시오.
-
->[!NOTE]
->
->소스 자료는 별도의 배포 스크립트를 통해 사용자 인터페이스에서 사용할 수 있는 옵션 외에 완전히 맞춤화된 모양과 느낌을 제공할 수 있다고 설명합니다. 배포 스크립트 프로시저가 포함되지 않았으며 확인된 후 별도로 문서화해야 합니다.
 
 ## 채팅 구성 요소 구성
 
