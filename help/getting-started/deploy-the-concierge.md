@@ -32,6 +32,6 @@ Adobe Brand Concierge을 배포하면 실제 웹 사이트 방문자가 사용�
 * 구성 요소 설치와 스크립트의 전체 페이지 설치 옵션 비교
 * 도메인과 경로를 일치시켜 표면 규칙을 구성하는 방법 (모두, 다음으로 시작, 다음으로 끝남, 다음과 같음)
 
->[!VIDEO](https://video.tv.adobe.com/v/3502969?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502986?captions=kor&learn=on)
 
 설명서는 [컨시어지 배포](../documentation/deployment/deployment.md)를 참조하십시오.

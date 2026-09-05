@@ -32,6 +32,6 @@ ht-degree: 0%
 * 평가를 실행하고 전체 점수 및 플래그 지정된 질문을 검토하는 방법
 * 플래그가 지정된 각 질문에 대한 예상 응답과 컨시어지의 실제 응답을 비교하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502662)
+>[!VIDEO](https://video.tv.adobe.com/v/3502667?captions=kor)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
