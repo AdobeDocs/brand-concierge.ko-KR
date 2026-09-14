@@ -2,13 +2,11 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge 살펴보기
-source-git-commit: 9b0ec00c0816dba6ca30042491944c68f51d9caf
+source-git-commit: 27fbac53214bccc78b4010b4017e2255ab466928
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '156'
 ht-degree: 16%
-
 ---
-
 
 # Adobe Brand Concierge {#content}
 
@@ -16,6 +14,7 @@ ht-degree: 16%
 + 비디오 시작 {#getting-started}
   + [첫 번째 컨시어지 만들기](../getting-started/create-first-concierge.md)
   + [회의 예약](../getting-started/meeting-booking.md)
+  + [음성 대화](../getting-started/voice-conversation.md)
   + [데이터 스트림 ID에 대해 알아보기](../getting-started/learn-about-datastream-ids.md)
   + [Marketo과 통합](../getting-started/integration-with-marketo.md)
   + [컨시어지의 비주얼 스타일 맞춤화](../getting-started/customize-visual-style.md)
