@@ -31,6 +31,6 @@ Adobe Brand Concierge은 고객이 직접 입력하는 대신 컨시어지와 �
 * 컨시어지가 전체 멀티 모달 환경으로 유지되어 음성 대화 중에 이미지, 텍스트 및 링크를 반환하는 방법
 * 더 이상 원하지 않는 경우 음성 끄기 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503491?captions=kor&learn=on)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
