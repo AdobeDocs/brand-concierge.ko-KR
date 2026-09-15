@@ -8,14 +8,14 @@ doc-type: Technical Video
 duration: 215
 last-substantial-update: 2026-09-14
 jira: KT-22594
-source-git-commit: 26c875494ae9f38fcddbd0a9779f6fa659db3683
+source-git-commit: e15924679ac2731ef367416160368459ef88167a
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 ---
 # 음성 대화
 
-Adobe Brand Concierge은 고객이 직접 입력하는 대신 컨시어지와 대화할 수 있는 핸즈프리 음성 대화 모드를 지원합니다. 이 비디오에서는 음성 모드 활성화, 자동 음성 감지 기능을 통해 단추를 누르지 않아도 되는 방법, 음성 기능이 텍스트 및 시각적 반응과 함께 컨시어지의 전체 멀티모달 환경에 어떻게 적합한지 살펴봅니다.
+Adobe Brand Concierge은 고객이 직접 입력하는 대신 컨시어지와 대화할 수 있는 핸즈프리 음성 대화 모드를 지원합니다. 이 비디오에서는 음성 모드 활성화, 자동 음성 감지 기능을 통해 단추를 누르지 않아도 되는 방법 및 음성 기능이 텍스트 및 시각적 반응과 함께 컨시어지의 전체 멀티모달 환경에 어떻게 적합한지 설명합니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -31,6 +31,6 @@ Adobe Brand Concierge은 고객이 직접 입력하는 대신 컨시어지와 �
 * 컨시어지가 전체 멀티 모달 환경으로 유지되어 음성 대화 중에 이미지, 텍스트 및 링크를 반환하는 방법
 * 더 이상 원하지 않는 경우 음성 끄기 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503491?captions=kor&learn=on)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
