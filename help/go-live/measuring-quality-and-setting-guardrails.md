@@ -1,5 +1,5 @@
 ---
-title: 품질 측정 및 보호 기능 설정 - 비디오
+title: 품질 측정 및 보호 기능 설정
 description: Adobe Brand Concierge 품질을 측정하기 위한 황금 질문과 이상적인 답변을 작성하고 중요한 방문자 질문에 대한 보호 기능을 정의하는 방법에 대해 알아봅니다.
 topic: Personalization,Integrations
 role: Developer
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 174
 last-substantial-update: 2026-09-29
 jira: KT-22188
-source-git-commit: 4cc80eef685fbfc26adaf0b9c47f61e935d45882
+source-git-commit: cd3fb3664f1eb60cba7cae83b8539871b3dcfb72
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '166'
 ht-degree: 0%
 ---
 
@@ -31,7 +31,6 @@ Adobe Brand Concierge을 시작하기 전에, 가 안전하고, 브랜드에 맞
 * 포함할 질문 및 답변 쌍의 수와 포함할 범주
 * 범위를 벗어나는 예제가 중요한 이유와 관리인이 이를 거부하는 방법
 * AI가 생성한 골든 세트의 첫 번째 초안을 사용하고 정교화합니다
-* 모임 예약, 담당자 전달, 가격, 법적 청구 및 경쟁업체 언급 규칙 정의
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
 
