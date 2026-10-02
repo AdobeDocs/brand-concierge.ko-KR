@@ -2,13 +2,14 @@
 title: 컨시어지 성능 분석
 description: 컨시어지 분석을 검토하고, 대화 기록을 검사하고, 평가 세트에 방문자 질문을 추가하고, Customer Journey Analytics 보고서를 여는 방법에 대해 알아봅니다.
 hide: true
-source-git-commit: da4b30fa292b911987aebec378af420b293ea594
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
-
 ---
-
 
 # 컨시어지 성능 분석
 

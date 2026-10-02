@@ -2,13 +2,14 @@
 title: 컨시어지 평가
 description: 평가 세트를 만들고 실용적이고 범위를 벗어나는 평가를 실행하고 평가를 보호하여 컨시어지 응답의 정확성과 안전성을 평가하는 방법에 대해 알아봅니다.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 0%
-
 ---
-
 
 # 컨시어지 평가
 

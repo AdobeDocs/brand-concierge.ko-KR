@@ -1,13 +1,14 @@
 ---
 title: 첫 번째 Brand Concierge 구축 및 테스트
 description: 컨시어지를 만들고, 브랜드 경험을 사용자 지정하고, 평가를 실행하고, 관련자 피드백을 위한 미리 보기 링크를 공유할 수 있습니다.
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
-
 ---
-
 # 첫 번째 Brand Concierge 구축 및 테스트
 
 이 문서에서는 초기 설정부터 피드백을 위한 공유를 통해 컨시어지를 만들고 검토를 위해 준비하는 과정을 안내합니다.

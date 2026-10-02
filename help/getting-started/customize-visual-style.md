@@ -6,15 +6,22 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 234
-last-substantial-update: 2026-08-25T00:00:00Z
+last-substantial-update: 2026-08-25T00:00:00.000Z
 jira: KT-22408
-source-git-commit: e4579efe202448c0c4dc85b3444abac6ed2834c2
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
-
 ---
-
 # 컨시어지의 비주얼 스타일 맞춤화
 
 Adobe Brand Concierge은 색상 팔레트, 글꼴 및 웹 사이트에서 가져온 카드 이미지와 같은 Adobe이 이미 제공한 시각적 선택 사항으로 시작합니다. 이 비디오에서는 이러한 선택 사항을 검토하고 브랜드에 더 잘 맞도록 시작 메시지 및 시작 프롬프트 카드를 사용자 지정합니다.
@@ -32,6 +39,6 @@ Adobe Brand Concierge은 색상 팔레트, 글꼴 및 웹 사이트에서 가져
 * 텍스트 색상, 두께 및 크기를 포함한 시작 메시지 제목 및 소제목을 편집하는 방법
 * 카드 텍스트, 이미지 및 배경색을 포함한 시작 프롬프트 카드를 추가, 제거 및 편집하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3502264?captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3502259)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.

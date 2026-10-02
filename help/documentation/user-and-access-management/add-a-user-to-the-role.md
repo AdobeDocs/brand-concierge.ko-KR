@@ -1,13 +1,14 @@
 ---
 title: Brand Concierge 역할에 사용자 추가
 description: Brand Concierge 권한이 포함된 역할에 사용자를 할당하는 방법을 알아봅니다.
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
-
 ---
-
 
 # Brand Concierge 역할에 사용자 추가
 

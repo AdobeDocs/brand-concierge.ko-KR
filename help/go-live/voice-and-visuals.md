@@ -6,19 +6,26 @@ role: User
 level: Beginner
 doc-type: Tutorial
 duration: 131
-last-substantial-update: 2026-08-07T00:00:00Z
+last-substantial-update: 2026-08-07T00:00:00.000Z
 jira: KT-22187
-source-git-commit: 18cce684f46091d2b3d48665213a7b60ecb203d3
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
-
 ---
-
 
 # 음성 및 위젯 모양 만들기
 
-컨시어지가 일반 챗봇처럼 들리지 않아야 합니다. 브랜드로 들릴 것입니다. 이 비디오에서는 Adobe Brand Concierge의 연설 방식과 위젯이 사이트에서 표시되고 작동하는 방식, 이렇게 두 가지 모양을 만듭니다.
+컨시어지가 일반 챗봇처럼 들리지 않아야 합니다. 브랜드로 들릴 것입니다. 이 비디오에서는 Adobe Brand Concierge의 말투와 위젯이 사이트에서 어떻게 보이고 동작하는지, 이렇게 두 가지 모양을 만듭니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -32,6 +39,6 @@ ht-degree: 0%
 * 위젯 시각적 선택 사항: 배치, 표시 모드, 색상 및 글꼴
 * 어시스턴트 이름 지정, 인사말 작성 및 스타터 프롬프트 선택
 
->[!VIDEO](https://video.tv.adobe.com/v/3496947/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.

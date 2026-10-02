@@ -6,9 +6,18 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 215
-last-substantial-update: 2026-09-14
+last-substantial-update: 2026-09-14T00:00:00.000Z
 jira: KT-22594
-source-git-commit: e15924679ac2731ef367416160368459ef88167a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -31,6 +40,6 @@ Adobe Brand Concierge은 고객이 직접 입력하는 대신 컨시어지와 �
 * 컨시어지가 전체 멀티 모달 환경으로 유지되어 음성 대화 중에 이미지, 텍스트 및 링크를 반환하는 방법
 * 더 이상 원하지 않는 경우 음성 끄기 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3503491?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
