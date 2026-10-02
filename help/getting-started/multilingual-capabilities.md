@@ -38,6 +38,6 @@ Adobe Brand Concierge은 컨시어지를 만들 때 선택한 언어로 응답�
 * 선택한 응답 언어가 답변 및 스타터 프롬프트 카드에 미치는 영향
 * 카탈로그 및 웹 사이트 URL과 같은 가져온 지식 소스가 지역화된 응답을 지원하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3503888?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503893?captions=kor&learn=on)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
