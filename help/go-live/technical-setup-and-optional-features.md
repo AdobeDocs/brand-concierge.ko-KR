@@ -41,6 +41,6 @@ Adobe Brand Concierge을 위한 웹 사이트를 준비하고 방문자 경험�
 * 대표 가용성, 방문자 트리거 및 모임 예약 대체 기능이 있는 라이브 채팅 활성화
 * 관리자 액세스 권한과 기능 플래그를 사용하여 리드 및 활동을 받도록 Marketo Engage 연결
 
->[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504080/?captions=kor&learn=on)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
