@@ -6,15 +6,22 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 265
-last-substantial-update: 2026-09-01T00:00:00Z
+last-substantial-update: 2026-09-01T00:00:00.000Z
 jira: KT-22481
-source-git-commit: 2255c486351718718d7f729ae7f870446c955793
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
-
 ---
-
 # 평가 세트에 대해 알아보기
 
 평가는 Adobe Brand Concierge이 올바르게 응답하는지, 범위를 유지하는지, 복잡한 질문을 안전하게 처리하는지 여부를 알려줍니다. 이 비디오는 기능, 범위 외 및 보호 등 세 가지 평가 유형을 안내하고, 시작하기 전에 평가 세트를 작성하고, 실행하고, 플래그가 지정된 결과를 검토하는 방법을 보여 줍니다.

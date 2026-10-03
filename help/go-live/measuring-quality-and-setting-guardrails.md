@@ -6,9 +6,18 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 174
-last-substantial-update: 2026-09-29
+last-substantial-update: 2026-09-29T00:00:00.000Z
 jira: KT-22188
-source-git-commit: cd3fb3664f1eb60cba7cae83b8539871b3dcfb72
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -32,6 +41,6 @@ Adobe Brand Concierge을 시작하기 전에, 가 안전하고, 브랜드에 맞
 * 범위를 벗어나는 예제가 중요한 이유와 관리인이 이를 거부하는 방법
 * AI가 생성한 골든 세트의 첫 번째 초안을 사용하고 정교화합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503947/?captions=kor&learn=on)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.

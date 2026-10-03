@@ -6,19 +6,26 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 150
-last-substantial-update: 2026-07-10T00:00:00Z
+last-substantial-update: 2026-07-10T00:00:00.000Z
 jira: KT-21745
-source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
-
 ---
-
 
 # Go-live 여정 시작
 
-웹 사이트에 상주하며 자체 콘텐츠 및 브랜드 음성을 사용하여 방문자의 질문에 답변하는 AI 기반 도우미인 Adobe Brand Concierge을 사용하여 라이브 준비를 하십시오. 라이브는 간단한 안내가 있는 프로세스이며 이 비디오에서는 시작하기 전에 해당 여정에 대한 개요를 제공합니다.
+웹 사이트에 상주하며 자체 콘텐츠 및 브랜드 음성을 사용하여 방문자의 질문에 답변하는 AI 기반 도우미인 Adobe Brand Concierge을 사용하여 라이브를 시작할 준비를 하십시오. 라이브는 간단한 안내가 있는 프로세스이며 이 비디오에서는 시작하기 전에 해당 여정에 대한 개요를 제공합니다.
 
 ## 이 비디오는 누구의 것입니까?
 

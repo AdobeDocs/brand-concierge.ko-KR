@@ -1,13 +1,14 @@
 ---
 title: Brand Concierge 권한으로 역할 만들기
 description: 역할을 만들고 Brand Concierge에 액세스하는 데 필요한 권한을 부여하는 방법을 알아봅니다.
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 1%
-
 ---
-
 
 # Brand Concierge 권한으로 역할 만들기
 

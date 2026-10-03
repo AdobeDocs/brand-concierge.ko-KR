@@ -2,13 +2,14 @@
 title: 컨시어지 배포
 description: 데이터스트림 구성, 배포 스크립트 설치, 표면 규칙 정의 및 배포 확인을 통해 Brand Concierge을 배포하는 방법에 대해 알아봅니다.
 hide: true
-source-git-commit: da4b30fa292b911987aebec378af420b293ea594
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 0%
-
 ---
-
 
 # 컨시어지 배포
 

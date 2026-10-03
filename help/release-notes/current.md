@@ -1,17 +1,18 @@
 ---
-description: Adobe Brand Concierge의 최신 릴리스 정보.
+description: Adobe Brand Concierge 최신 릴리스 정보.
 title: 최신 릴리스 정보
 feature: Release Information
-source-git-commit: 35ce8a7b460e97336246293ad5e53ee83ead5108
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1046'
 ht-degree: 0%
-
 ---
-
 # 현재 릴리스 정보 {#current-release-notes}
 
-Adobe Brand Concierge은 지속적인 게재 모델을 따르므로 Adobe은 지속적으로 새로운 기능, 개선 사항 및 수정 사항을 제공할 수 있습니다.
+Adobe Brand Concierge은 지속적인 게재 모델을 따르며, 이를 통해 Adobe은 지속적으로 새로운 기능, 개선 사항 및 수정 사항을 제공할 수 있습니다.
 
 모든 특징은 달리 지시되지 않는 한 일반적으로 이용 가능하다.
 

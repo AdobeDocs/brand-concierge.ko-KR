@@ -2,13 +2,14 @@
 title: 컨시어지 관리
 description: 웹 사이트에서 Brand Concierge을 만들고, 통합, 기술, 지침, 색조 및 시각적 스타일을 구성하고, 배포하기 전에 테스트하는 방법을 알아봅니다.
 toc: true
-source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1761'
 ht-degree: 1%
-
 ---
-
 
 # 컨시어지 관리
 

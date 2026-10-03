@@ -3,13 +3,22 @@ title: 기술 및 통합 프레임워크
 description: 기술과 통합이 컨시어지 프레임워크에서 함께 작동하는 방식을 알아봅니다. 기술은 동작을 정의하는 반면, 통합은 데이터에 연결되고 기능을 제공합니다.
 role: User, Admin
 level: Beginner
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
-
 ---
-
 # 기술 및 통합 프레임워크 {#skills-and-integrations}
 
 통합(이전의 도구)은 데이터 소스 또는 백엔드에 대한 연결입니다. 스킬은 행동이다.

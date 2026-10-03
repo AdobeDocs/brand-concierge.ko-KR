@@ -2,13 +2,14 @@
 title: Brand Concierge에 대한 지식 소스 만들기 및 관리
 description: AEM Sites, 웹 사이트 링크 및 Brand Concierge에 대한 제품 카탈로그 지식 소스를 만들고 상태를 모니터링하고 크롤링 처리 문제를 해결하는 방법에 대해 알아봅니다.
 hide: true
-source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '856'
 ht-degree: 1%
-
 ---
-
 
 # Brand Concierge에 대한 지식 소스 만들기 및 관리
 
