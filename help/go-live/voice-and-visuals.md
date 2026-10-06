@@ -39,7 +39,7 @@ ht-degree: 0%
 * 위젯 시각적 선택 사항: 배치, 표시 모드, 색상 및 글꼴
 * 어시스턴트 이름 지정, 인사말 작성 및 스타터 프롬프트 선택
 
->[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496947/?captions=kor&learn=on)
 
 ## 관련 자습서
 

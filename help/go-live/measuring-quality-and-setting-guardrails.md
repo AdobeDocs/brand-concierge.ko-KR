@@ -41,7 +41,7 @@ Adobe Brand Concierge을 시작하기 전에, 가 안전하고, 브랜드에 맞
 * 범위를 벗어나는 예제가 중요한 이유와 관리인이 이를 거부하는 방법
 * AI가 생성한 골든 세트의 첫 번째 초안을 사용하고 정교화합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503947/?captions=kor&learn=on)
 
 ## 관련 자습서
 
