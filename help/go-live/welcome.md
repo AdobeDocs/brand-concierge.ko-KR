@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '197'
 ht-degree: 0%
 ---
 
@@ -39,6 +39,15 @@ ht-degree: 0%
 * 제공하는 내용과 Adobe 팀이 구성하는 내용 비교
 * 일반적인 6~9주 일정 및 이에 영향을 미치는 사항
 
->[!VIDEO](https://video.tv.adobe.com/v/3495874/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
+
+## 관련 자습서
+
+* [음성 및 위젯 모양 만들기](voice-and-visuals.md)
+* [컨텐츠 및 방문자 여정 준비](content-and-journey.md)
+* [품질 측정 및 보호 기능 설정](measuring-quality-and-setting-guardrails.md)
+* [기술 설정 및 옵션 기능](technical-setup-and-optional-features.md)
+* [Pre-go-live 체크리스트 및 롤아웃 계획](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
