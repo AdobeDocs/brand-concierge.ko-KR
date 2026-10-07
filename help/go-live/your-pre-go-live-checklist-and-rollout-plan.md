@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 269
 last-substantial-update: 2026-10-05
 jira: KT-22190
-source-git-commit: 024fc10eacb22a8292e51891458fc57253455afc
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '298'
 ht-degree: 0%
 ---
 
@@ -35,8 +35,17 @@ Adobe Brand Concierge을 시작하기 전에 컨텐츠, 브랜드 구성, 위젯
 * 관련자 승인을 받고 Adobe 리소스가 포함된 경우 기술 준비 상태를 확인합니다.
 * 결과가 다음 단계를 지원할 때만 진행하면서 점진적인 롤아웃을 계획합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504106/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504111/?captions=kor&learn=on)
 
 내부 팀원으로 시작하여 전체 흐름을 테스트합니다. 그런 다음 25%, 50%, 최종적으로 100%로 확장하기 전에 대상 페이지의 5%와 같은 작은 초기 롤아웃을 고려하십시오. 고정된 일정이 아니라 예제 단계입니다. 전체 롤아웃 후 최소 매주 분석 대시보드를 통해 모니터링을 계속합니다.
+
+## 관련 자습서
+
+* [Go-live 여정 시작](welcome.md)
+* [음성 및 위젯 모양 만들기](voice-and-visuals.md)
+* [컨텐츠 및 방문자 여정 준비](content-and-journey.md)
+* [품질 측정 및 보호 기능 설정](measuring-quality-and-setting-guardrails.md)
+* [기술 설정 및 옵션 기능](technical-setup-and-optional-features.md)
+* [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
