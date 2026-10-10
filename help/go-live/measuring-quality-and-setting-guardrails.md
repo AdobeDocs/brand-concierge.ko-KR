@@ -50,6 +50,6 @@ Adobe Brand Concierge을 시작하기 전에, 가 안전하고, 브랜드에 맞
 * [컨텐츠 및 방문자 여정 준비](content-and-journey.md)
 * [기술 설정 및 옵션 기능](technical-setup-and-optional-features.md)
 * [Pre-go-live 체크리스트 및 롤아웃 계획](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/ko/playlists/brand-concierge-go-live-checklist)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.

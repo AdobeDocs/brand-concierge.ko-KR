@@ -50,6 +50,6 @@ Adobe Brand Concierge을 위한 웹 사이트를 준비하고 방문자 경험�
 * [컨텐츠 및 방문자 여정 준비](content-and-journey.md)
 * [품질 측정 및 보호 기능 설정](measuring-quality-and-setting-guardrails.md)
 * [Pre-go-live 체크리스트 및 롤아웃 계획](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/ko/playlists/brand-concierge-go-live-checklist)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
