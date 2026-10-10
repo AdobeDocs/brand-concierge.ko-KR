@@ -48,6 +48,6 @@ ht-degree: 0%
 * [품질 측정 및 보호 기능 설정](measuring-quality-and-setting-guardrails.md)
 * [기술 설정 및 옵션 기능](technical-setup-and-optional-features.md)
 * [Pre-go-live 체크리스트 및 롤아웃 계획](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/ko/playlists/brand-concierge-go-live-checklist)
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
