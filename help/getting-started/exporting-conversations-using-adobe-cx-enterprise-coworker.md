@@ -5,12 +5,12 @@ topic: Data Distiller
 role: Developer
 level: Intermediate
 doc-type: Tutorial
-duration: 173
+duration: 175
 last-substantial-update: 2026-10-14
 jira: KT-22743
-source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
+source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 0%
 ---
 # Adobe CX Enterprise Coworker을 사용하여 대화 내보내기
@@ -35,3 +35,7 @@ Adobe Experience Platform Query Service 및 Adobe CX Enterprise Coworker을 사�
 > 조직에서 Data Distiller을 사용할 수 없는 경우 동료는 이 비디오에 표시된 CSV 다운로드를 만들 수 없습니다.
 
 설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
+
+## 관련 자습서
+
+* [쿼리 서비스 및 터미널을 사용하여 대화 내보내기](exporting-conversations-using-query-service-and-terminal.md)

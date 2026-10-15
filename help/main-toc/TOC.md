@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge 살펴보기
-source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
+source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 14%
+source-wordcount: '190'
+ht-degree: 13%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -22,6 +22,7 @@ ht-degree: 14%
   + [평가 세트에 대해 알아보기](../getting-started/learn-about-evaluation-sets.md)
   + [컨시어지 배포](../getting-started/deploy-the-concierge.md)
   + [Adobe CX Enterprise Coworker을 사용하여 대화 내보내기](../getting-started/exporting-conversations-using-adobe-cx-enterprise-coworker.md)
+  + [쿼리 서비스 및 터미널을 사용하여 대화 내보내기](../getting-started/exporting-conversations-using-query-service-and-terminal.md)
 + Go-live 안내서 {#go-live-guide}
   + [Go-live 여정 시작](../go-live/welcome.md)
   + [콘텐츠 및 방문자 경험 준비](../go-live/content-and-journey.md)
