@@ -28,7 +28,7 @@ Adobe Experience Platform Query Service 및 Adobe CX Enterprise Coworker을 사�
 * 비디오에 표시된 CSV 다운로드에 Data Distiller이 필요한 이유를 이해합니다
 * PII(개인 식별 정보)가 포함될 수 있는 내보내기를 저장할 때 조직의 데이터 처리 정책을 따르십시오
 
->[!VIDEO](https://video.tv.adobe.com/v/3504546)
+>[!VIDEO](https://video.tv.adobe.com/v/3504551?captions=kor)
 
 >[!NOTE]
 >
