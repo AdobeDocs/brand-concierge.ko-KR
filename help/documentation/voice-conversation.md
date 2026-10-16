@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 26648a7597148a5a463c2ae695598a5558ad8f48
+source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 ---
 # 음성 대화 사용
@@ -25,13 +25,13 @@ Adobe Brand Concierge의 음성 대화 기능을 사용하면 방문자가 직�
 
 ## 음성 활성화 방법
 
-1. **Home** 화면의 **Your Concierges**&#x200B;에서 편집할 컨시어지를 선택합니다.
+1. **Home** 화면의 **Your Concierges**&#x200B;에서 음성을 사용할 수 있는 컨시어지를 선택합니다.
 
-   ![Brand Concierge 홈 화면에서 Adobe 컨시어지 카드가 강조 표시되어 있습니다.](assets/voice-conversations-1.png){width="800" zoomable="yes"}
+   ![Brand Concierge 홈 화면에서 Adobe 컨시어지 카드가 강조 표시되어 있습니다.](assets/voice-conversations-1.png){width="600" zoomable="yes"}
 
 1. **디자인** 탭에서 **음성**&#x200B;을 선택합니다.
 
-   ![브랜드 표현식 아래의 왼쪽 패널에서 음성 옵션이 강조 표시된 컨시어지의 디자인 탭](assets/voice-conversations-2.png){width="800" zoomable="yes"}
+   ![브랜드 표현식 아래의 왼쪽 패널에서 음성 옵션이 강조 표시된 컨시어지의 디자인 탭](assets/voice-conversations-2.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Adobe Brand Concierge의 음성 대화 기능을 사용하면 방문자가 직�
 
 ## 음성을 비활성화하는 방법
 
-1. **Home** 화면의 **Your Concierges**&#x200B;에서 편집할 컨시어지를 선택합니다.
+1. **Home** 화면의 **Your Concierges**&#x200B;에서 음성을 비활성화할 컨시어지를 선택합니다.
 
 1. **디자인** 탭에서 **음성**&#x200B;을 선택합니다.
 
