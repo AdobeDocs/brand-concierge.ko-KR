@@ -29,7 +29,7 @@ Adobe Experience Platform 쿼리 서비스 및 터미널을 사용하여 Adobe B
 * 데이터 세트 및 날짜 범위를 선택한 다음 쿼리 결과를 로컬 CSV 파일로 내보냅니다
 * 내보낸 결과를 확인하고 필요한 경우 만료된 자격 증명을 새로 고칩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504643)
+>[!VIDEO](https://video.tv.adobe.com/v/3504648?captions=kor)
 
 ```bash
 psql "sslmode=require host=... password=..." --csv -o ~/brand-concierge-conversation-export/oct-1-2026-till-today-responses.csv -c "SELECT * FROM cja_brand_concierge_responses_dataset_b4c15126_bd9b_4d52_8151_26 WHERE timestamp >= TIMESTAMP '2026-10-01 00:00:00' AND timestamp <= NOW() ORDER BY timestamp ASC LIMIT 1000"
