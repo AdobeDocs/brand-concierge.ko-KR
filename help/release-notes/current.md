@@ -5,9 +5,9 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1327'
 ht-degree: 0%
 ---
 # 현재 릴리스 정보 {#current-release-notes}
@@ -15,6 +15,22 @@ ht-degree: 0%
 Adobe Brand Concierge은 지속적인 게재 모델을 따르며, 이를 통해 Adobe은 지속적으로 새로운 기능, 개선 사항 및 수정 사항을 제공할 수 있습니다.
 
 모든 특징은 달리 지시되지 않는 한 일반적으로 이용 가능하다.
+
+## 2026년 10월 {#october-2026}
+
+* **라이브 채팅에 대한 대화 점수**: 영업 담당자가 종료하기 전에 모든 라이브 채팅을 최소 점수에서 최대 점수까지 0~3의 비율로 평가합니다. 점수는 리드 레코드에 저장되고 Marketo Engage 필터 및 트리거에 대한 제한으로 사용할 수 있으므로 리드 점수 책정, 재타겟팅, 개인화 및 CRM 핸드오프를 유도할 수 있습니다. [대화 점수 매기기](../documentation/sales-handoff/chat-inbox.md#conversation-score)를 참조하세요.
+
+* **Marketo Engage 프로필의 Brand Concierge 활동**: 컨시어지 참여는 Marketo 개인 레코드에 3가지 기본 활동 유형으로 기록됩니다. 컨시어지 참여, 컨시어지 예약, 컨시어지 라이브 채팅, 이렇게 세 가지 기본 활동 유형이 있습니다. 이 세 가지 모두 대화 점수, 모임 상태, 라우팅 유형 및 영업 담당자와 같은 제한 사항과 함께 스마트 목록에서 트리거와 필터로 사용할 수 있습니다. [Marketo Engage의 Brand Concierge 데이터](../documentation/sales-handoff/marketo-activities.md)를 참조하세요.
+
+* **방문자 패널의 전체 Marketo 프로필**: 채팅 받은 편지함에는 사전 채팅 양식에서 공유한 세부 정보를 포함하여 대화와 함께 방문자의 프로필이 표시되므로 담당자가 답변하기 전에 전체 컨텍스트를 확인할 수 있습니다.
+
+* **다중 채널 라우팅 알림**: 담당자는 채널 간 들어오는 실시간 채팅에 대한 알림을 받으므로 채팅이 더 빨리 선택됩니다.
+
+## 2026년 9월 {#september-2026}
+
+* **Composer의 라이브 채팅 및 모임 예약 2.0**: 라이브 채팅 및 모임 예약은 Composer의 [찾아보기 통합] 패널에서 내장된 통합으로 사용할 수 있으며, 영업 스킬에 대한 새 핸드오프에서 방문자 의도에 따라 제공할 시기를 결정합니다. [실시간 채팅 및 모임 예약 활성화](../documentation/sales-handoff/configure-in-composer.md)를 참조하세요.
+
+* **사용자 지정 라우팅 규칙**: AND 및 OR와 결합된 여러 조건 그룹, 우선 순위가 지정된 규칙 및 할당된 여러 담당자를 사용하여 방문자를 올바른 담당자에게 보내기 위해 Marketo 리드 및 회사 특성에 라우팅 규칙을 만듭니다. 사용자 지정 라우팅은 모임 예약 및 라이브 채팅 모두에 적용됩니다. [담당자에게 대화 라우팅](../documentation/sales-handoff/routing-rules.md)을 참조하세요.
 
 ## 2026년 8월 {#august-2026}
 

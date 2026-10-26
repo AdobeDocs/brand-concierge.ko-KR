@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge 살펴보기
-source-git-commit: c80a55306cf078d21071332532717760960dbc47
+source-git-commit: bc1ad01947d4c756c13392c1db85ced46e9cca82
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '223'
 ht-degree: 13%
 ---
 
@@ -32,7 +32,6 @@ ht-degree: 13%
   + [Pre-Go-Live 체크리스트 및 롤아웃 계획](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + 설명서 {#documentation}
   + [Brand Concierge 도움말](../documentation/overview.md)
-  + [모임](../documentation/meetings.md)
   + [기술 및 통합 프레임워크](../documentation/skills-and-integrations.md)
   + [개발자 및 사용자 지정 안내서](../documentation/developer-customization-guide.md)
   + [음성 대화](../documentation/voice-conversation.md)
@@ -48,6 +47,14 @@ ht-degree: 13%
     + [Brand Concierge에 대한 지식 소스 만들기 및 관리](../documentation/knowledge-sources/knowledge-sources.md)
   + 관리 서비스 {#concierge-management}
     + [컨시어지 관리](../documentation/concierge-management/concierge-management.md)
+  + 라이브 채팅 및 모임 예약 {#sales-handoff}
+    + [개요](../documentation/sales-handoff/overview.md)
+    + [담당자 설정](../documentation/sales-handoff/representative-setup.md)
+    + [담당자에게 대화 전달](../documentation/sales-handoff/routing-rules.md)
+    + [라이브 채팅 및 모임 예약 활성화](../documentation/sales-handoff/configure-in-composer.md)
+    + [받은 채팅](../documentation/sales-handoff/chat-inbox.md)
+    + [Marketo Engage의 Brand Concierge 데이터](../documentation/sales-handoff/marketo-activities.md)
+    + [회의 및 라이브 채팅 모니터링](../documentation/sales-handoff/monitor.md)
   + 평가 {#evaluation}
     + [컨시어지 평가](../documentation/evaluation/evaluation.md)
   + 배포 {#deployment}
