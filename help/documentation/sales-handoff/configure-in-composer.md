@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '828'
 ht-degree: 0%
 ---
 # 라이브 채팅 및 모임 예약 활성화 {#configure-in-composer}
@@ -100,7 +100,7 @@ Composer에는 두 가지 사항이 적용되어야 합니다. **[!UICONTROL 모
    | 경쟁 제품 비교 | 경쟁업체 솔루션과 솔루션 비교, 차별화 또는 경쟁업체 플랫폼과의 마이그레이션 |
    | 체험판 및 POC 액세스 | 체험판 설정, 놀이터 액세스, 개념 증명 또는 파일럿 |
    | 계약 및 라이선스 변경 | 계약 갱신, 기간 연장 또는 계획 업그레이드 |
-   | 조달 RFP 또는 RFI | 제출, 응답, 공급업체 설문지, 구매 양식 또는 규정 준수 문서 |
+   | 조달 RFP 또는 RFI | RFP 또는 RFI 제출 및 응답, 공급업체 설문지, 조달 양식 또는 규정 준수 문서 |
    | 데모 | 제품 데모 또는 연습 |
 
    **[!UICONTROL 조건 추가]**&#x200B;를 선택하여 자신의 의도를 추가하거나 귀하의 비즈니스에 적용되지 않는 조건을 삭제합니다.
@@ -123,6 +123,6 @@ Composer에는 두 가지 사항이 적용되어야 합니다. **[!UICONTROL 모
 
 동작이 적절하면 컨시어지를 게시하여 사이트에서 핸드오프를 라이브로 만듭니다.
 
-## 다음 단계 {#next}
+## 다음 단계 {#next-steps}
 
-이제 담당자들이 채팅을 받을 수 있습니다. [채팅 받은 편지함](chat-inbox.md)을 참조하세요.
+이제 담당자는 채팅과 모임 예약을 받을 수 있습니다. 담당자가 채팅을 처리하는 방법에 대해 알아보려면 [채팅 받은 편지함](chat-inbox.md)을 참조하세요.

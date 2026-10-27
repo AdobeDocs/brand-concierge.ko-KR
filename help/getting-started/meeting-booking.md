@@ -27,14 +27,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 49%
+source-wordcount: '124'
+ht-degree: 16%
 ---
 # 회의 예약
 
-Adobe Brand Concierge의 회의 예약 기능에 대해 알아봅니다. 이 비디오 튜토리얼은 고객에게 보여지는 사용자 경험, 캘린더 연결을 위한 관리자 구성, 일부 대시보드 및 보고서보고서를 다룹니다.
+Adobe Brand Concierge의 모임 예약 기능에 대해 알아봅니다. 이 비디오 튜토리얼에서는 고객 대면 환경의 모습, 달력 연결을 위한 관리자 구성, 일부 대시보드 및 보고서 보기 등의 주제를 다룹니다.
 
 ## 이 비디오는 누구의 것입니까?
 
@@ -48,6 +48,6 @@ Adobe Brand Concierge의 회의 예약 기능에 대해 알아봅니다. 이 비
 * 라이브 에이전트로의 전송이 얼마나 빠르고 쉽게 발생하는지 확인하십시오.
 * 이러한 도구를 관리하고 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478541?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
 자세한 내용은 [실시간 채팅 및 모임 예약](../documentation/sales-handoff/overview.md)을 참조하세요.

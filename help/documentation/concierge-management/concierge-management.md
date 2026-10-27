@@ -5,7 +5,7 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1702'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ## 개요
 
-| 항목 | 세부 사항 |
+| 항목 | 세부 정보 |
 |---|---|
 | 기본 사용자 | 셀프서비스 구성을 사용하는 마케터 |
 | 추가 지원 | Commerce 및 B2B 통합에는 IT, 상거래 또는 영업 팀의 코드, 키 또는 설정이 필요할 수 있습니다 |
@@ -77,8 +77,8 @@ ht-degree: 1%
 | 컨텐츠 AI 검색 | AEM Sites 콘텐츠 검색 | AEM Sites as a Cloud Service 고객 관련 |
 | 엔티티 연결 | 방문자 메시지의 제품 또는 브랜드 언급을 특정 카탈로그 엔티티로 확인 | 통합 지원: 일반적으로 단독으로 사용하는 것이 아니라 검색 통합과 함께 사용됩니다. |
 | Commerce Mcp | 제품 검색, 제품 세부 사항 및 비교를 위해 라이브 Adobe Commerce 카탈로그에 연결합니다. | 기본적으로 활성화되지 않음, 상거래 또는 IT 팀의 코드 또는 키 필요 |
-| 모임 예약 | 방문자가 영업 담당자와 회의를 예약할 수 있도록 허용합니다. | 영업 사원의 달력으로 설정해야 합니다. [실시간 채팅 및 모임 예약](../sales-handoff/overview.md) 보기 |
-| 라이브 채팅 | 방문자를 라이브 영업 담당자와 연결합니다. | 영업 담당자가 가능한 상태로 설정해야 합니다. [실시간 채팅 및 모임 예약](../sales-handoff/overview.md) 보기 |
+| 모임 예약 | 방문자가 영업 담당자와 회의를 예약할 수 있도록 허용합니다. | 영업 사원의 달력으로 설정해야 합니다. [실시간 채팅 및 모임 예약](../sales-handoff/overview.md)을 참조하세요. |
+| 라이브 채팅 | 방문자를 라이브 영업 담당자와 연결합니다. | 영업 담당자가 가능한 상태로 설정해야 합니다. [실시간 채팅 및 모임 예약](../sales-handoff/overview.md)을 참조하세요. |
 
 ### 통합 켜기 및 구성
 
@@ -193,7 +193,7 @@ Meeting Booking and Live Chat 을 사용하면 방문자가 영업 담당자와 
 
 1. [담당자에게 대화 라우팅](../sales-handoff/routing-rules.md) — 라운드 로빈, 직접 에이전트 또는 사용자 지정 라우팅 규칙을 선택합니다.
 
-1. [라이브 채팅 및 모임 예약 활성화](../sales-handoff/configure-in-composer.md) — **[!UICONTROL 모임 예약]**&#x200B;과(와) **[!UICONTROL 라이브 채팅]** 통합을 연결한 다음 **[!UICONTROL 판매에 전달]** 스킬을 활성화합니다.
+1. [라이브 채팅 및 모임 예약 활성화](../sales-handoff/configure-in-composer.md) — **[!UICONTROL 모임 예약]** 및 **[!UICONTROL 라이브 채팅]** 통합을 연결한 다음 **[!UICONTROL 영업부에 전달]** 스킬을 활성화합니다.
 
 1. 전체 경험을 테스트하려면 **시뮬레이션**&#x200B;을(를) 선택하십시오. 샘플 질문을 입력하고 올바른 스킬 및 참여 흐름으로 이동하는지 확인하십시오.
 

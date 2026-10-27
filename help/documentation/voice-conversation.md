@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '337'
 ht-degree: 0%
 ---
 # 음성 대화 사용
@@ -66,3 +66,7 @@ Adobe Brand Concierge의 음성 대화 기능을 사용하면 방문자가 직�
 1. **디자인** 탭에서 **음성**&#x200B;을 선택합니다.
 
 1. _음성_ 패널에서 해제할 옵션을 비활성화한 다음 **저장**&#x200B;을 선택합니다.
+
+## 비디오 데모
+
+음성 대화를 실제로 보려면 [비디오 데모](/help/getting-started/voice-conversation.md)를 확인하십시오.

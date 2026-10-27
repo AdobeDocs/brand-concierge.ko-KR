@@ -12,16 +12,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '638'
 ht-degree: 1%
 ---
 # 받은 채팅 {#chat-inbox}
 
 방문자가 누군가에게 대화를 요청하면 채팅이 [!DNL Adobe Marketo Qualifier]의 **[!UICONTROL 채팅 받은 편지함]**&#x200B;에 도착합니다. 이 페이지는 라이브 채팅에 대한 담당자의 보기입니다. 메시지가 도착하면 표시되는 내용, 상황에 맞는 내용, 창을 닫기 전에 수행해야 하는 작업 등이 있습니다.
 
-열려면 **[!UICONTROL 활동]** 아래의 왼쪽 패널에서 **[!UICONTROL 채팅 받은 편지함]**&#x200B;을 선택하세요.
+채팅 받은 편지함을 열려면 **[!UICONTROL 활동]** 아래의 왼쪽 패널에서 **[!UICONTROL 채팅 받은 편지함]**&#x200B;을 선택하세요.
 
 ## 채팅 수신 {#receive}
 
