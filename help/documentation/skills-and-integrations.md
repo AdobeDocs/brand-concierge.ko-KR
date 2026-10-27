@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1698'
+source-wordcount: '1705'
 ht-degree: 0%
 ---
 # 기술 및 통합 프레임워크 {#skills-and-integrations}
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 하나의 통합은 여러 스킬에서 사용할 수 있습니다. 한 스킬이 여러 가지 통합을 사용할 수 있습니다. 이러한 구성 요소를 독립적으로 구성하고 함께 매핑합니다.
 
-## 기술
+## 스킬
 
 기술은 컨시어지의 행동 계층이다. 컨시어지가 수행할 수 있는 단일 작업(처리, 절차, 응답 방식)을 정의하는 재사용 가능한(named, reservable) 단위입니다. 스킬은 자신의 데이터를 보유하지 않으며, 스킬에 첨부된 통합에서 기능을 차용합니다.
 
@@ -81,8 +81,8 @@ _사이트 자문 기술 예제_
 | 컨텐츠 AI 검색 | 콘텐츠 AI를 통해 브랜드 콘텐츠를 검색합니다. | 대체 콘텐츠 소스입니다. 일반적으로 한 번에 하나의 기술 자료 검색 또는 콘텐츠 AI 검색만 필요합니다 |
 | 엔티티 연결 | 사용자 메시지의 제품 또는 브랜드 언급을 특정 카탈로그 엔티티로 확인 | 통합 지원, 단독이 아닌 검색 통합과 함께 사용 |
 | Commerce Mcp | Adobe 관리 Commerce MCP 서버: Adobe Live 검색에서 지원하는 제품 검색, 세부 정보, 변형 및 facet/attribute 검색 | 기준선에 없음. Commerce 사용 사례에 대해 수동으로 추가됨 |
-| 모임 예약 | 방문자가 영업 담당자와 회의를 예약할 수 있도록 합니다. | Companion Sales Qualifier 제품을 통해 영업 사원의 캘린더 설정 필요 |
-| 라이브 채팅 | 방문자를 라이브 영업 담당자와 연결합니다. | Companion Sales Qualifier 제품을 통해 영업 담당자의 가용성을 설정해야 합니다. |
+| 모임 예약 | 방문자가 영업 담당자와 회의를 예약할 수 있도록 합니다. | 동행 [!DNL Adobe Marketo Qualifier] 제품을 통해 영업 담당자의 일정을 설정해야 합니다. [실시간 채팅 및 모임 예약](sales-handoff/overview.md) 보기 |
+| 라이브 채팅 | 방문자를 라이브 영업 담당자와 연결합니다. | 동행 [!DNL Adobe Marketo Qualifier] 제품을 통해 영업 담당자의 가용성이 설정되어 있어야 합니다. [실시간 채팅 및 모임 예약](sales-handoff/overview.md) 보기 |
 
 ![콘텐츠 AI 검색, 엔터티 연결, 기술 자료 검색 및 Commerce MCP의 네 가지 통합 카드를 보여주는 통합 패널 찾아보기](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
@@ -96,8 +96,7 @@ _사이트 자문 기술 예제_
 | 제품 자문 | 제품 검색 및 조사: 이름 기반 제품 카드 및 제품 관련 질문 | 기술 자료 검색, 엔티티 연결 |
 | Adobe Commerce 카탈로그 검색 | 라이브 카탈로그를 통해 제품에 대한 전체 세부 정보를 검색, 탐색, 필터링 및 가져올 수 있습니다. | Commerce MCP 도구: Commerce 제품, 제품 세부 사항, 제품 변형, 제품 패싯 및 검색 가능한 특성 검색 |
 | Adobe Commerce 제품 비교 | Commerce 표에 있는 둘 이상의 명명된 제품의 병렬 비교 | Commerce MCP 도구: Commerce 제품, 제품 세부 사항 검색 |
-| 영업 부서 회의 | 영업 담당자와의 회의 예약을 제안하고 용이하게 합니다. | 모임 예약 통합 |
-| Sales와의 라이브 채팅 | 영업 담당자에게 라이브 채팅 핸드오프를 제안하고 간소화합니다. | 라이브 채팅 통합 |
+| 판매 사업 전환 | 사용 가능한 도구를 통해 방문자를 회사 컨설턴트와 연결합니다. 라이브 채팅 또는 모임 예약을 제안하고 용이하게 합니다. [실시간 채팅 및 모임 예약 활성화](sales-handoff/configure-in-composer.md)를 참조하세요. | 라이브 채팅, 회의 예약 |
 
 두 상거래 기술은 카탈로그 전용 기능이며, 기준선의 일부가 아닌 Commerce MCP 통합에 따라 다릅니다. 비커머스 컨시어지에서는 자동으로 생성된 기술 자료 검색에 대해 사이트 자문 및 제품 자문을 대신 실행합니다.
 

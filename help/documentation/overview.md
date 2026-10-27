@@ -6,25 +6,33 @@ level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+    internal-label: Customer engagement
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+    internal-label: Privacy
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 2047
+source-wordcount: '2051'
 ht-degree: 1%
-
 ---
-
 # Brand Concierge 도움말
 
 Brand Concierge의 주요 기능을 구성하고 사용하는 방법에 대해 알아봅니다. 설정, 데이터 통합, 개인 정보 보호, 사용자 지정, 성능 측정 및 기술 요구 사항에 대한 일반적인 질문에 대한 답변을 찾아보십시오.
@@ -116,7 +124,7 @@ Adobe Experience Cloud 대시보드에서 Brand Concierge에 액세스할 수 �
 
 기술 은 제품 추천의 경우 **제품 자문**, 일반 브랜드 질문의 경우 **사이트 자문**&#x200B;과 같이 컨시어지가 방문자를 위해 수행할 수 있는 작업을 결정합니다. **[!UICONTROL 스킬 찾아보기]**&#x200B;를 선택하여 사용 가능한 스킬 카탈로그를 확인하고 컨시어지에 필요한 스킬을 켜십시오.
 
-* **스킬 카탈로그:** 사이트 자문, 제품 자문, 모임 예약 또는 영업 담당자와의 라이브 채팅을 지원하는 스킬 등 사용 가능한 스킬 중에서 선택하십시오.
+* **스킬 카탈로그:** 사이트 자문, 제품 자문 및 방문자에게 라이브 채팅이나 영업 담당자와의 회의를 제공하는 [영업에 전달](sales-handoff/overview.md)과 같은 사용 가능한 스킬 중에서 선택합니다.
 * **구성:** 각 스킬에 대해 해당 이름, 설명 및 이를 호출하는 의도(트리거 구 또는 주제)를 설정합니다.
 * **통합:** 스킬이 작업을 수행하는 데 필요한 통합을 첨부하거나 **[!UICONTROL 권장 사용]**&#x200B;을 선택하여 Composer에서 자동으로 하나를 선택하도록 하십시오.
 * **미리 보기:** 실시간 미리 보기에서 변경 내용을 즉시 테스트합니다.
@@ -237,7 +245,7 @@ Brand Concierge은 여러 산업에서 B2C 및 B2B 사용 사례를 모두 지�
 
 ## 대화형 AI 공개 {#disclosure}
 
-투명하고 신뢰할 수 있는 경험을 제공하기 위해 Adobe Brand Concierge 사용자는 대화 경험 내에 짧은 공개를 추가할 책임이 있습니다. 이러한 공개는 최종 사용자가 대화가 어떻게 작동하고 해당 정보가 어떻게 사용될 수 있는지를 이해하는 데 도움이 됩니다.
+명확하고 신뢰할 수 있는 경험을 제공하기 위해 Adobe Brand Concierge 사용자는 대화 경험 내에 짧은 공개를 추가할 책임이 있습니다. 이러한 공개는 최종 사용자가 대화가 어떻게 작동하고 해당 정보가 어떻게 사용될 수 있는지를 이해하는 데 도움이 됩니다.
 
 **공개에서 다루어야 하는 내용**
 

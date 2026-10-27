@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # Marketo과 통합
@@ -38,4 +38,4 @@ Brand Concierge이 웹 사이트와 Marketo Engage 사이의 루프를 닫는 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
 
-설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
+설명서는 [Marketo Engage의 Brand Concierge 데이터](../documentation/sales-handoff/marketo-activities.md)를 참조하십시오.

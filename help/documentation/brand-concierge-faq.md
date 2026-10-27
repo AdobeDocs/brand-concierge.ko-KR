@@ -1,29 +1,36 @@
 ---
 title: 자주 묻는 질문
-description: Adobe Brand Concierge에 대해 자주 묻는 질문에 대한 답변을 얻으십시오.
+description: Adobe Brand Concierge에 대해 자주 묻는 질문에 대한 답변을 받아 보십시오.
 role: User,Admin
 level: Beginner
 TQID: https://experienceleague.adobe.com/R-s7wgJ5jtCXnBiLMVdW-6db7cTgSgaJwq4x6IlEJqY
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: d23569d059a42297a92b339ecf92852fb3234033
+    internal-label: Customer profiles
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 1958
+source-wordcount: '1980'
 ht-degree: 1%
-
 ---
-
 # 자주 묻는 질문
 
 Brand Concierge과 관련하여 자주 묻는 질문에 대한 답변은 이 섹션을 참조하십시오.
@@ -141,7 +148,7 @@ Brand Concierge에는 내장 테스트 도구가 포함되어 있습니다.
 
 ### 고객이 우리 팀과 미팅을 예약할 수 있습니까?
 
-예. 고객은 모임 예약 기술을 사용하여 팀과 모임을 예약할 수 있습니다. 이 기능을 활성화하려면 스킬 구성에서 스킬을 활성화하고 활성화 의도(&quot;영업 상담&quot; 등)를 정의하고 달력 또는 예약 시스템을 연결하며 가용성 및 회의 유형을 설정합니다. 구성하고 나면 고객이 대화 중에 회의를 요청할 수 있으며 Brand Concierge은 채팅 중에 나가지 않아도 일정 조정 프로세스를 용이하게 합니다.
+예. 고객은 **모임 예약** 및 **라이브 채팅** 통합을 통해 **영업에 대한 전달** 스킬을 사용하여 팀과 모임을 예약하거나 담당자와 라이브 채팅을 시작할 수 있습니다. 담당자가 달력을 연결하고 Adobe Marketo Qualifier에서 가용성을 설정하고 방문자가 방문자에게 라우팅되는 방법을 선택한 다음, 작성기에서 스킬을 활성화하고 이를 트리거하는 의도를 정의합니다. 구성되면 고객은 채팅을 종료하지 않고 대화 중에 모임 또는 라이브 채팅을 요청할 수 있습니다. [실시간 채팅 및 모임 예약](sales-handoff/overview.md)을 참조하세요.
 
 ### 기술 자료의 초기 Q&amp;A 쌍은 어떻게 생성됩니까?
 
