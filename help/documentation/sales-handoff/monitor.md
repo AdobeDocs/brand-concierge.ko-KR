@@ -14,14 +14,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '225'
 ht-degree: 0%
 ---
 # 회의 및 라이브 채팅 모니터링 {#monitor}
 
-[!DNL Adobe Marketo Qualifier]은(는) 예약된 회의, 있었던 채팅 및 팀이 이것과 비교하여 수행하는 방식에 대한 모든 핸드오프의 운영 기록을 유지합니다.
+[!DNL Adobe Marketo Qualifier]은(는) 예약된 모임, 예약된 채팅 및 모임 예약 수행 방법 등 모든 핸드오프에 대한 작업 기록을 유지합니다.
 
 ## 예약된 회의 검토 {#bookings}
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ## 회의 성과 분석 {#performance}
 
-**[!UICONTROL Analytics]**&#x200B;에서 **[!UICONTROL 모임 성과]**&#x200B;를 선택하여 모임을 요청한 방문자 수와 누락된 방문자 수를 포함한 여러 분석 범주를 검토합니다. 시간이 지나면서 회의를 하는 트렌드와 어느 대표가 가져갔는지도 확인할 수 있다.
+**[!UICONTROL Analytics]**&#x200B;에서 **[!UICONTROL 모임 성과]**&#x200B;를 선택하여 방문자가 요청한 모임 수, 예약된 모임 수 및 누락된 모임 수를 확인합니다. 일별, 주별, 월별 트렌드, 예약된 요청된 회의 비율, 가장 많은 회의를 소요한 대표 등도 확인할 수 있습니다.
 
-![모임 성과 대시보드](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![요청된 모임, 예약된 모임 및 누락된 모임 총계를 표시하는 모임 성과 대시보드, 누락된 모임의 일일 차트 및 예약된 요청의 비율을 표시하는 모임 성과 대시보드](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
 
 ## Marketo Engage의 컨시어지 참여 분석 {#marketo}
 

@@ -5,7 +5,7 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1327'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Adobe Brand Concierge은 지속적인 게재 모델을 따르며, 이를 통해 
 
 ## 2026년 9월 {#september-2026}
 
-* **Composer의 라이브 채팅 및 모임 예약 2.0**: 라이브 채팅 및 모임 예약은 Composer의 [찾아보기 통합] 패널에서 내장된 통합으로 사용할 수 있으며, 영업 스킬에 대한 새 핸드오프에서 방문자 의도에 따라 제공할 시기를 결정합니다. [실시간 채팅 및 모임 예약 활성화](../documentation/sales-handoff/configure-in-composer.md)를 참조하세요.
+* **Composer의 라이브 채팅 및 모임 예약 2.0**: 라이브 채팅 및 모임 예약은 Composer의 [찾아보기] 통합 패널에서 기본 내장된 통합으로 사용할 수 있으며, 영업 스킬에 대한 새로운 핸드오프는 방문자 의도에 따라 제공할 시기를 결정합니다. [실시간 채팅 및 모임 예약 활성화](../documentation/sales-handoff/configure-in-composer.md)를 참조하세요.
 
 * **사용자 지정 라우팅 규칙**: AND 및 OR와 결합된 여러 조건 그룹, 우선 순위가 지정된 규칙 및 할당된 여러 담당자를 사용하여 방문자를 올바른 담당자에게 보내기 위해 Marketo 리드 및 회사 특성에 라우팅 규칙을 만듭니다. 사용자 지정 라우팅은 모임 예약 및 라이브 채팅 모두에 적용됩니다. [담당자에게 대화 라우팅](../documentation/sales-handoff/routing-rules.md)을 참조하세요.
 

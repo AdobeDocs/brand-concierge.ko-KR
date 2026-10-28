@@ -27,14 +27,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 49%
+source-wordcount: '124'
+ht-degree: 16%
 ---
 # 회의 예약
 
-Adobe Brand Concierge의 회의 예약 기능에 대해 알아봅니다. 이 비디오 튜토리얼은 고객에게 보여지는 사용자 경험, 캘린더 연결을 위한 관리자 구성, 일부 대시보드 및 보고서보고서를 다룹니다.
+Adobe Brand Concierge의 모임 예약 기능에 대해 알아봅니다. 이 비디오 튜토리얼에서는 고객 대면 환경의 모습, 달력 연결을 위한 관리자 구성, 일부 대시보드 및 보고서 보기 등의 주제를 다룹니다.
 
 ## 이 비디오는 누구의 것입니까?
 

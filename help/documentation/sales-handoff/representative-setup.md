@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '786'
 ht-degree: 1%
 ---
 # Adobe Marketo Qualifier 담당자 설정 {#representative-setup}
@@ -49,7 +49,7 @@ ht-degree: 1%
 
    ![일정 연결 중에 표시되는 Microsoft 계정 선택기](../assets/meetings-connect-3.png){width="600" zoomable="yes"}
 
-1. 방문자가 귀하와의 회의를 예약할 때 전송되는 확인 이메일을 검토합니다.
+1. 방문자가 귀하와의 회의를 예약할 때 받는 확인 이메일을 검토합니다.
 
    기본 제목 줄과 본문이 설정되어 있습니다. 둘 중 하나를 편집하고 초대에 [!DNL Microsoft Teams] 모임 링크를 포함할지 여부를 선택합니다.
 
@@ -112,7 +112,7 @@ ht-degree: 1%
 
 ## 설정된 사용자 검토 {#manage-members}
 
-**관리자만.** **[!UICONTROL 관리]**&#x200B;에서 **[!UICONTROL 구성원 관리]**&#x200B;를 선택하여 한 곳에서 모든 대리인의 상태(일정 연결 사용자, 실시간 채팅 사용 가능 여부 설정 사용자, 일정 연결 끊기 사용자)를 확인합니다.
+이 섹션은 관리자 전용입니다. **[!UICONTROL 관리]**&#x200B;에서 **[!UICONTROL 구성원 관리]**&#x200B;를 선택하여 한 곳에서 모든 대리인의 상태(일정 연결 사용자, 실시간 채팅 사용 가능 여부 설정 사용자, 일정 연결 끊기 사용자)를 확인합니다.
 
 Composer에서 통합을 활성화하기 전에 이 옵션을 사용하십시오. 연결된 캘린더 없이 여기에 나타나는 대표는 모임 예약에 적합하지 않으며 라이브 채팅 사용 가능 여부가 없는 대표는 라이브 채팅에 적합하지 않습니다.
 
