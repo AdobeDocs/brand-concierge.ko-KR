@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge 살펴보기
-source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
+source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 13%
+source-wordcount: '238'
+ht-degree: 12%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -30,6 +30,8 @@ ht-degree: 13%
   + [품질 측정 및 보호 기능 설정](../go-live/measuring-quality-and-setting-guardrails.md)
   + [기술 설정 및 옵션 기능](../go-live/technical-setup-and-optional-features.md)
   + [Pre-Go-Live 체크리스트 및 롤아웃 계획](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
++ 라이브 채팅 및 모임 예약 {#live-chat-and-meeting-booking}
+  + [라이브 채팅 및 모임 예약: 엔드 투 엔드 경험](../live-chat-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience.md)
 + 설명서 {#documentation}
   + [Brand Concierge 도움말](../documentation/overview.md)
   + [기술 및 통합 프레임워크](../documentation/skills-and-integrations.md)
