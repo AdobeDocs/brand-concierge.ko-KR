@@ -30,6 +30,6 @@ Adobe Brand Concierge이 라이브 채팅 또는 모임 예약을 통해 웹 사
 * 세션 중에 이미 제공된 세부 정보를 다시 제출하지 않고 방문자가 라우팅 규칙을 사용하여 사용 가능한 회의 시간을 선택하는 방법
 * 팀이 Marketo에서 진행 중인 채팅 및 과거 채팅, 예약된 회의를 검토하고, 레코드를 검색 및 필터링하고, 회의 정보를 CSV로 내보내는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506003?captions=kor&learn=on)
 
 자세한 내용은 [실시간 채팅 및 모임 예약](../documentation/sales-handoff/overview.md)을 참조하세요.
