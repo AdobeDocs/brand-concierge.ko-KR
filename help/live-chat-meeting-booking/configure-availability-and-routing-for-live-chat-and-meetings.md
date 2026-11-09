@@ -29,7 +29,7 @@ Adobe Brand Concierge에서 대표 가용성 및 라우팅 규칙을 사용하�
 * 구성원 관리에서 개별 라이브 채팅 시간을 설정하고 대표 준비 상태를 검토합니다.
 * 방문자 속성, 조건, 대표 할당 및 우선 순위를 사용하여 라우팅 규칙 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506790?captions=kor&learn=on)
 
 설명서는 [담당자 설정](../documentation/sales-handoff/representative-setup.md) 및 [담당자에게 대화 라우팅](../documentation/sales-handoff/routing-rules.md)을 참조하십시오.
 

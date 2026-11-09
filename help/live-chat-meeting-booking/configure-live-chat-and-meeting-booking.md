@@ -28,7 +28,7 @@ Adobe Brand Concierge에서 라이브 채팅 및 모임 예약을 구성하고 �
 * 판매 스킬에 대한 Handoff에 통합을 추가하고 이를 트리거하는 의도를 정의합니다.
 * 자동으로 생성된 지침을 검토하고, 각 통합을 트리거하는 의도를 세분화하고, 미리보기에서 기술을 테스트합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3508052?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508057?captions=kor&learn=on)
 
 자세한 내용은 [실시간 채팅 및 모임 예약 활성화](../documentation/sales-handoff/configure-in-composer.md)를 참조하세요.
 
