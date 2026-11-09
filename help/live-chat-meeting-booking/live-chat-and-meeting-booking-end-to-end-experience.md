@@ -5,12 +5,12 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 178
+duration: 184
 last-substantial-update: 2026-10-29
 jira: KT-23033
-source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 # 라이브 채팅 및 모임 예약: 엔드 투 엔드 경험
@@ -33,3 +33,9 @@ Adobe Brand Concierge이 라이브 채팅 또는 모임 예약을 통해 웹 사
 >[!VIDEO](https://video.tv.adobe.com/v/3506003?captions=kor&learn=on)
 
 자세한 내용은 [실시간 채팅 및 모임 예약](../documentation/sales-handoff/overview.md)을 참조하세요.
+
+## 관련 자습서
+
+* [라이브 채팅 및 모임에 대한 가용성 및 라우팅 설정](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [라이브 채팅 및 모임 예약 구성](configure-live-chat-and-meeting-booking.md)
+* [Marketo에서 Brand Concierge 활동 사용](use-brand-concierge-activities-in-marketo.md)

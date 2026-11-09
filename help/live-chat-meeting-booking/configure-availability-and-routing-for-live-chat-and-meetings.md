@@ -5,12 +5,12 @@ topic: Administration
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 201
+duration: 206
 last-substantial-update: 2026-11-03
 jira: KT-23034
-source-git-commit: 636dfd59c05251b6e07523877d9f7ab2df302f04
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '168'
 ht-degree: 0%
 ---
 # 라이브 채팅 및 모임에 대한 가용성 및 라우팅 설정
@@ -32,3 +32,9 @@ Adobe Brand Concierge에서 대표 가용성 및 라우팅 규칙을 사용하�
 >[!VIDEO](https://video.tv.adobe.com/v/3506790?captions=kor&learn=on)
 
 설명서는 [담당자 설정](../documentation/sales-handoff/representative-setup.md) 및 [담당자에게 대화 라우팅](../documentation/sales-handoff/routing-rules.md)을 참조하십시오.
+
+## 관련 자습서
+
+* [라이브 채팅 및 모임 예약: 엔드 투 엔드 경험](live-chat-and-meeting-booking-end-to-end-experience.md)
+* [라이브 채팅 및 모임 예약 구성](configure-live-chat-and-meeting-booking.md)
+* [Marketo에서 Brand Concierge 활동 사용](use-brand-concierge-activities-in-marketo.md)
