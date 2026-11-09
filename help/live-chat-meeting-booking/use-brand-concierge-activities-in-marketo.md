@@ -32,7 +32,7 @@ Adobe Brand Concierge에서 어떻게 개인 세부 정보 및 참여 활동을 
 * 스마트 캠페인의 `Smart List`에 컨시어지 활동 필터 및 트리거 추가
 * 상태, 날짜, 라우팅 유형, 페이지 URL, 영업 담당자, 대화 점수와 같은 활동 제한을 가진 좁은 대상자
 
->[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508046?captions=kor&learn=on)
 
 ## 관련 자습서
 
