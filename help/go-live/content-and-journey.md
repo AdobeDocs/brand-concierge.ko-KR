@@ -7,6 +7,7 @@ level: Beginner
 doc-type: Tutorial
 duration: 198
 last-substantial-update: 2026-07-17T00:00:00.000Z
+nudge-edit: 2026-11-18
 jira: KT-21785
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
@@ -17,9 +18,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: aa0cca6dac2bac5ddf75f72341b76aa0c02ad5f0
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '190'
 ht-degree: 0%
 ---
 
@@ -52,4 +53,4 @@ Adobe Brand Concierge은 질문 및 제공한 콘텐츠에만 답변할 수 있�
 
 ## 설명서
 
-설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
+설명서는 [Go-Live 확인 목록](../documentation/go-live-checklist/go-live-checklist.md) 및 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.

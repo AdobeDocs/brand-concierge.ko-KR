@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '218'
 ht-degree: 0%
 ---
 
@@ -52,4 +52,4 @@ Adobe Brand Concierge을 시작하기 전에, 가 안전하고, 브랜드에 맞
 * [Pre-go-live 체크리스트 및 롤아웃 계획](your-pre-go-live-checklist-and-rollout-plan.md)
 * [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/ko/playlists/brand-concierge-go-live-checklist)
 
-설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
+설명서는 [Go-Live 확인 목록](../documentation/go-live-checklist/go-live-checklist.md) 및 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.

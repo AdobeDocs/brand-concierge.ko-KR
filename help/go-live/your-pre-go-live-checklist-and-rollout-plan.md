@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 269
 last-substantial-update: 2026-10-05
 jira: KT-22190
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '303'
 ht-degree: 0%
 ---
 
@@ -48,4 +48,4 @@ Adobe Brand Concierge을 시작하기 전에 컨텐츠, 브랜드 구성, 위젯
 * [기술 설정 및 옵션 기능](technical-setup-and-optional-features.md)
 * [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/ko/playlists/brand-concierge-go-live-checklist)
 
-설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
+설명서는 [Go-Live 확인 목록](../documentation/go-live-checklist/go-live-checklist.md) 및 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
