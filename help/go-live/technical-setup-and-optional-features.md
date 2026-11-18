@@ -19,9 +19,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 # 기술 설정 및 옵션 기능
@@ -41,7 +41,7 @@ Adobe Brand Concierge을 위한 웹 사이트를 준비하고 방문자 경험�
 * 대표 가용성, 방문자 트리거 및 모임 예약 대체 기능이 있는 라이브 채팅 활성화
 * 관리자 액세스 권한과 기능 플래그를 사용하여 리드 및 활동을 받도록 Marketo Engage 연결
 
->[!VIDEO](https://video.tv.adobe.com/v/3504080/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
 
 ## 관련 자습서
 
@@ -50,6 +50,6 @@ Adobe Brand Concierge을 위한 웹 사이트를 준비하고 방문자 경험�
 * [컨텐츠 및 방문자 여정 준비](content-and-journey.md)
 * [품질 측정 및 보호 기능 설정](measuring-quality-and-setting-guardrails.md)
 * [Pre-go-live 체크리스트 및 롤아웃 계획](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/ko/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge go-live 체크리스트 재생 목록](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
-설명서는 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
+설명서는 [Go-Live 확인 목록](../documentation/go-live-checklist/go-live-checklist.md) 및 [Brand Concierge 도움말](../documentation/overview.md)을 참조하세요.
